@@ -1,0 +1,14 @@
+# Recommended Python version: 3.11.9
+
+numpy==1.26.4
+pandas==2.2.3
+scipy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+joblib
+shap
+openpyxl
+jupyter
+ipython
