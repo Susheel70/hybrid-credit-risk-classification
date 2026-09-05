@@ -1,0 +1,14 @@
+{
+    "stage": "Objective 3 Step 10 - frozen sigmoid calibration replication",
+    "development_dataset": "German Credit",
+    "replication_datasets": [
+        "Australian Credit Approval",
+        "Taiwan Credit Card Default"
+    ],
+    "frozen_core_hybrid": "Group-aware Chi2 Top75 + balanced LR/RF/XGB + equal soft voting",
+    "frozen_calibration_method": "Sigmoid",
+    "calibrator_training": "5-fold StratifiedGroupKFold inner OOF predictions inside each outer-training fold",
+    "threshold": 0.5,
+    "external_calibration_method_selection": false,
+    "threshold_optimization": "deferred"
+}

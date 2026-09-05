@@ -1,0 +1,10 @@
+dataset,preprocessor_mode,train_records,test_records,transformed_features,minimum_transformed_value,missing_train_values,missing_test_values,finite_values_confirmed,profile_leakage_confirmed_absent
+Australian Credit Approval,linear,552,138,42,-1.5199007202230275,0,0,True,True
+Australian Credit Approval,tree,552,138,42,0.0,0,0,True,True
+Australian Credit Approval,chi2,552,138,42,0.0,0,0,True,True
+German Credit,linear,800,200,61,-1.7927745642681412,0,0,True,True
+German Credit,tree,800,200,61,0.0,0,0,True,True
+German Credit,chi2,800,200,61,0.0,0,0,True,True
+Taiwan Credit Card Default,linear,24001,5999,29,-6.338262942050598,0,0,True,True
+Taiwan Credit Card Default,tree,24001,5999,29,-339603.0,0,0,True,True
+Taiwan Credit Card Default,chi2,24001,5999,29,0.0,0,0,True,True

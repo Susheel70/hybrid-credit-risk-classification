@@ -1,0 +1,10 @@
+dataset,variable,original_codes,cleaned_category,reason
+Taiwan Credit Card Default,sex,1,male,Official category label
+Taiwan Credit Card Default,sex,2,female,Official category label
+Taiwan Credit Card Default,education,1,graduate_school,Official category label
+Taiwan Credit Card Default,education,2,university,Official category label
+Taiwan Credit Card Default,education,3,high_school,Official category label
+Taiwan Credit Card Default,education,"0, 4, 5, 6",other_or_unknown,"Rare, other, or undocumented codes consolidated"
+Taiwan Credit Card Default,marriage,1,married,Official category label
+Taiwan Credit Card Default,marriage,2,single,Official category label
+Taiwan Credit Card Default,marriage,"0, 3",other_or_unknown,Other or undocumented codes consolidated

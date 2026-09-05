@@ -1,0 +1,7 @@
+{
+    "development_dataset": "German Credit",
+    "calibration_method": "Sigmoid / Platt-style logistic recalibration",
+    "fit_input": "logit of inner OOF raw hybrid probability",
+    "external_method_selection": false,
+    "threshold": 0.5
+}

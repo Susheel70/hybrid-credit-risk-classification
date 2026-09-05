@@ -1,0 +1,18 @@
+{
+    "stage": "Objective 3 Step 14 - final explainability analysis",
+    "framework_status": "frozen",
+    "primary_explanation": "Source-feature permutation importance for complete calibrated soft-voting hybrid at the frozen cost-aware threshold",
+    "permutation_repeats": 5,
+    "permutation_metrics": [
+        "ROC-AUC decrease",
+        "PR-AUC decrease",
+        "MCC decrease",
+        "Balanced-accuracy decrease",
+        "Brier increase",
+        "Log-loss increase"
+    ],
+    "component_explanation": "Native XGBoost SHAP contributions aggregated to source features",
+    "shap_scope": "XGBoost component only; not the entire hybrid",
+    "shap_max_records_per_outer_fold": 1000,
+    "causal_interpretation": false
+}

@@ -1,0 +1,32 @@
+{
+    "experiment": "Objective 3 Step 3 - all-feature clean baselines",
+    "positive_class": "1 = adverse/default/rejected/bad credit",
+    "outer_validation": "StratifiedGroupKFold 5 folds x 5 repetitions",
+    "repeat_seeds": [
+        42,
+        142,
+        242,
+        342,
+        442
+    ],
+    "models": [
+        "LR",
+        "SVM",
+        "KNN",
+        "DT",
+        "RF",
+        "XGB"
+    ],
+    "feature_selection": "none",
+    "imbalance_treatment": "none",
+    "hyperparameter_tuning": "none",
+    "calibration": "none",
+    "threshold_optimization": "none",
+    "primary_future_comparison_metrics": [
+        "MCC",
+        "ROC-AUC",
+        "PR-AUC",
+        "adverse-class F1",
+        "balanced accuracy"
+    ]
+}

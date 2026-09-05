@@ -1,0 +1,31 @@
+{
+    "stage": "Objective 3 Step 7 - German heterogeneous ensemble development",
+    "development_dataset": "German Credit",
+    "base_models": [
+        "LR",
+        "RF",
+        "XGB"
+    ],
+    "feature_regimes": [
+        "AllFeatures",
+        "FrozenChi2Top75"
+    ],
+    "training_regimes": [
+        "Unweighted",
+        "Balanced"
+    ],
+    "ensemble_types": [
+        "SoftVote",
+        "Stack"
+    ],
+    "outer_validation": "same 5x5 grouped folds as Steps 3-6",
+    "inner_validation_for_stacking": "5-fold StratifiedGroupKFold",
+    "feature_selection_rule": "Frozen Group-Aware Chi-Square Top75; refitted inside each inner fold when producing stacking OOF predictions",
+    "balanced_training": {
+        "LR": "class_weight='balanced'",
+        "RF": "class_weight='balanced'",
+        "XGB": "scale_pos_weight=N_negative/N_positive from current training partition",
+        "stack_meta_LR": "class_weight='balanced'"
+    },
+    "selection_rule": "Choose ensemble configuration using German evidence only. External datasets must not influence architecture selection."
+}

@@ -1,0 +1,7 @@
+dataset,adverse_target,count,percentage,class_label
+Australian Credit Approval,0,307,44.4928,Favourable / non-default
+Australian Credit Approval,1,383,55.5072,Adverse / default
+German Credit,0,700,70.0,Favourable / non-default
+German Credit,1,300,30.0,Adverse / default
+Taiwan Credit Card Default,0,23364,77.88,Favourable / non-default
+Taiwan Credit Card Default,1,6636,22.12,Adverse / default

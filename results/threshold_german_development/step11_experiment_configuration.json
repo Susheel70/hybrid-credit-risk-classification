@@ -1,0 +1,22 @@
+{
+    "stage": "Objective 3 Step 11 - German cost-sensitive threshold development",
+    "development_dataset": "German Credit",
+    "frozen_upstream_framework": "Group-aware Chi2 Top75 + balanced LR/RF/XGB + equal soft vote + sigmoid calibration",
+    "threshold_strategies": [
+        "Fixed0.50",
+        "MaxMCC",
+        "MaxF1",
+        "MaxBalancedAccuracy",
+        "MinCost_FN2_FP1",
+        "MinCost_FN5_FP1",
+        "MinCost_FN10_FP1"
+    ],
+    "threshold_training_data": "Cross-fitted sigmoid-calibrated OOF hybrid probabilities inside each outer-training partition",
+    "cost_scenarios": {
+        "2:1": "False negative cost = 2 x false positive cost",
+        "5:1": "False negative cost = 5 x false positive cost",
+        "10:1": "False negative cost = 10 x false positive cost"
+    },
+    "cost_interpretation": "Sensitivity scenarios only; not actual monetary bank costs.",
+    "selection_rule": "Default threshold strategy must be selected from German evidence only. Australian and Taiwan cannot influence threshold-rule selection."
+}

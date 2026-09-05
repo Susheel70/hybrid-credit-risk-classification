@@ -1,0 +1,38 @@
+dataset,source_feature,selected_runs,total_runs,selection_frequency
+Australian Credit Approval,a1,0,25,0.0
+Australian Credit Approval,a4,25,25,1.0
+Australian Credit Approval,a5,25,25,1.0
+Australian Credit Approval,a6,25,25,1.0
+Australian Credit Approval,a8,25,25,1.0
+Australian Credit Approval,a9,25,25,1.0
+Australian Credit Approval,a11,2,25,0.08
+Australian Credit Approval,a12,22,25,0.88
+Australian Credit Approval,a2,25,25,1.0
+Australian Credit Approval,a3,25,25,1.0
+Australian Credit Approval,a7,25,25,1.0
+Australian Credit Approval,a10,25,25,1.0
+Australian Credit Approval,a13,1,25,0.04
+Australian Credit Approval,a14,25,25,1.0
+Taiwan Credit Card Default,sex,25,25,1.0
+Taiwan Credit Card Default,education,25,25,1.0
+Taiwan Credit Card Default,marriage,25,25,1.0
+Taiwan Credit Card Default,pay_0,25,25,1.0
+Taiwan Credit Card Default,pay_2,25,25,1.0
+Taiwan Credit Card Default,pay_3,25,25,1.0
+Taiwan Credit Card Default,pay_4,25,25,1.0
+Taiwan Credit Card Default,pay_5,25,25,1.0
+Taiwan Credit Card Default,pay_6,25,25,1.0
+Taiwan Credit Card Default,limit_bal,25,25,1.0
+Taiwan Credit Card Default,age,22,25,0.88
+Taiwan Credit Card Default,bill_amt1,19,25,0.76
+Taiwan Credit Card Default,bill_amt2,9,25,0.36
+Taiwan Credit Card Default,bill_amt3,0,25,0.0
+Taiwan Credit Card Default,bill_amt4,0,25,0.0
+Taiwan Credit Card Default,bill_amt5,0,25,0.0
+Taiwan Credit Card Default,bill_amt6,0,25,0.0
+Taiwan Credit Card Default,pay_amt1,25,25,1.0
+Taiwan Credit Card Default,pay_amt2,25,25,1.0
+Taiwan Credit Card Default,pay_amt3,25,25,1.0
+Taiwan Credit Card Default,pay_amt4,25,25,1.0
+Taiwan Credit Card Default,pay_amt5,25,25,1.0
+Taiwan Credit Card Default,pay_amt6,25,25,1.0

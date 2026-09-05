@@ -1,0 +1,76 @@
+dataset,run_id,max_abs_probability_difference
+German Credit,R1_F1,1.1102230246251565e-16
+German Credit,R1_F2,1.1102230246251565e-16
+German Credit,R1_F3,1.1102230246251565e-16
+German Credit,R1_F4,1.6653345369377348e-16
+German Credit,R1_F5,2.220446049250313e-16
+German Credit,R2_F1,1.6653345369377348e-16
+German Credit,R2_F2,1.1102230246251565e-16
+German Credit,R2_F3,1.1102230246251565e-16
+German Credit,R2_F4,1.3877787807814457e-16
+German Credit,R2_F5,2.220446049250313e-16
+German Credit,R3_F1,1.6653345369377348e-16
+German Credit,R3_F2,1.1102230246251565e-16
+German Credit,R3_F3,1.1102230246251565e-16
+German Credit,R3_F4,1.6653345369377348e-16
+German Credit,R3_F5,2.220446049250313e-16
+German Credit,R4_F1,1.1102230246251565e-16
+German Credit,R4_F2,1.1102230246251565e-16
+German Credit,R4_F3,1.6653345369377348e-16
+German Credit,R4_F4,1.1102230246251565e-16
+German Credit,R4_F5,1.3877787807814457e-16
+German Credit,R5_F1,1.1102230246251565e-16
+German Credit,R5_F2,1.1102230246251565e-16
+German Credit,R5_F3,1.6653345369377348e-16
+German Credit,R5_F4,1.1102230246251565e-16
+German Credit,R5_F5,1.1102230246251565e-16
+Australian Credit Approval,R1_F1,1.1102230246251565e-16
+Australian Credit Approval,R1_F2,1.1102230246251565e-16
+Australian Credit Approval,R1_F3,1.1102230246251565e-16
+Australian Credit Approval,R1_F4,2.220446049250313e-16
+Australian Credit Approval,R1_F5,3.3306690738754696e-16
+Australian Credit Approval,R2_F1,1.1102230246251565e-16
+Australian Credit Approval,R2_F2,3.3306690738754696e-16
+Australian Credit Approval,R2_F3,1.1102230246251565e-16
+Australian Credit Approval,R2_F4,1.1102230246251565e-16
+Australian Credit Approval,R2_F5,1.1102230246251565e-16
+Australian Credit Approval,R3_F1,1.1102230246251565e-16
+Australian Credit Approval,R3_F2,2.220446049250313e-16
+Australian Credit Approval,R3_F3,2.220446049250313e-16
+Australian Credit Approval,R3_F4,1.1102230246251565e-16
+Australian Credit Approval,R3_F5,3.3306690738754696e-16
+Australian Credit Approval,R4_F1,3.3306690738754696e-16
+Australian Credit Approval,R4_F2,1.3877787807814457e-16
+Australian Credit Approval,R4_F3,2.220446049250313e-16
+Australian Credit Approval,R4_F4,3.3306690738754696e-16
+Australian Credit Approval,R4_F5,3.3306690738754696e-16
+Australian Credit Approval,R5_F1,3.3306690738754696e-16
+Australian Credit Approval,R5_F2,1.1102230246251565e-16
+Australian Credit Approval,R5_F3,2.220446049250313e-16
+Australian Credit Approval,R5_F4,1.1102230246251565e-16
+Australian Credit Approval,R5_F5,1.1102230246251565e-16
+Taiwan Credit Card Default,R1_F1,2.220446049250313e-16
+Taiwan Credit Card Default,R1_F2,2.220446049250313e-16
+Taiwan Credit Card Default,R1_F3,3.3306690738754696e-16
+Taiwan Credit Card Default,R1_F4,2.220446049250313e-16
+Taiwan Credit Card Default,R1_F5,2.220446049250313e-16
+Taiwan Credit Card Default,R2_F1,2.220446049250313e-16
+Taiwan Credit Card Default,R2_F2,2.220446049250313e-16
+Taiwan Credit Card Default,R2_F3,1.3877787807814457e-16
+Taiwan Credit Card Default,R2_F4,1.3877787807814457e-16
+Taiwan Credit Card Default,R2_F5,2.220446049250313e-16
+Taiwan Credit Card Default,R3_F1,2.220446049250313e-16
+Taiwan Credit Card Default,R3_F2,1.6653345369377348e-16
+Taiwan Credit Card Default,R3_F3,2.220446049250313e-16
+Taiwan Credit Card Default,R3_F4,3.3306690738754696e-16
+Taiwan Credit Card Default,R3_F5,2.220446049250313e-16
+Taiwan Credit Card Default,R4_F1,2.220446049250313e-16
+Taiwan Credit Card Default,R4_F2,2.220446049250313e-16
+Taiwan Credit Card Default,R4_F3,1.6653345369377348e-16
+Taiwan Credit Card Default,R4_F4,2.220446049250313e-16
+Taiwan Credit Card Default,R4_F5,3.3306690738754696e-16
+Taiwan Credit Card Default,R5_F1,1.6653345369377348e-16
+Taiwan Credit Card Default,R5_F2,2.220446049250313e-16
+Taiwan Credit Card Default,R5_F3,2.220446049250313e-16
+Taiwan Credit Card Default,R5_F4,2.220446049250313e-16
+Taiwan Credit Card Default,R5_F5,2.220446049250313e-16

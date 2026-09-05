@@ -1,0 +1,51 @@
+dataset,run_id,repeat,fold,total_source_features,selected_source_features,feature_reduction_pct,selected_features,feature_selection_runtime_seconds
+Australian Credit Approval,R1_F1,1,1,14,11,21.42857142857143,a8;a9;a7;a10;a4;a3;a14;a5;a11;a2;a6,0.07443899998907
+Australian Credit Approval,R1_F2,1,2,14,11,21.42857142857143,a8;a9;a10;a7;a14;a4;a3;a2;a5;a6;a12,0.03635700000450015
+Australian Credit Approval,R1_F3,1,3,14,11,21.42857142857143,a8;a9;a10;a7;a4;a14;a3;a5;a12;a2;a6,0.03892909997375682
+Australian Credit Approval,R1_F4,1,4,14,11,21.42857142857143,a8;a9;a10;a7;a4;a3;a14;a5;a12;a2;a6,0.038479800045024604
+Australian Credit Approval,R1_F5,1,5,14,11,21.42857142857143,a8;a9;a10;a7;a14;a3;a5;a4;a2;a12;a6,0.0372954000486061
+Australian Credit Approval,R2_F1,2,1,14,11,21.42857142857143,a8;a9;a10;a7;a4;a3;a14;a5;a2;a12;a6,0.03913970000576228
+Australian Credit Approval,R2_F2,2,2,14,11,21.42857142857143,a8;a9;a10;a7;a4;a14;a3;a6;a5;a2;a12,0.03902510000625625
+Australian Credit Approval,R2_F3,2,3,14,11,21.42857142857143,a8;a9;a7;a10;a14;a4;a3;a5;a2;a12;a6,0.03905560000566766
+Australian Credit Approval,R2_F4,2,4,14,11,21.42857142857143,a8;a9;a10;a7;a4;a14;a3;a5;a12;a2;a6,0.03874230000656098
+Australian Credit Approval,R2_F5,2,5,14,11,21.42857142857143,a8;a9;a10;a7;a14;a3;a4;a5;a2;a6;a13,0.03534040000522509
+Australian Credit Approval,R3_F1,3,1,14,11,21.42857142857143,a8;a9;a10;a7;a3;a4;a14;a2;a5;a6;a12,0.03959310002392158
+Australian Credit Approval,R3_F2,3,2,14,11,21.42857142857143,a8;a9;a10;a7;a14;a3;a4;a5;a2;a12;a6,0.03864139999495819
+Australian Credit Approval,R3_F3,3,3,14,11,21.42857142857143,a8;a9;a10;a7;a4;a14;a3;a5;a12;a2;a6,0.04098389996215701
+Australian Credit Approval,R3_F4,3,4,14,11,21.42857142857143,a8;a9;a10;a7;a14;a4;a3;a5;a2;a6;a12,0.038679299992509186
+Australian Credit Approval,R3_F5,3,5,14,11,21.42857142857143,a8;a9;a10;a7;a14;a4;a3;a5;a2;a12;a6,0.038285199960228056
+Australian Credit Approval,R4_F1,4,1,14,11,21.42857142857143,a8;a9;a10;a7;a4;a14;a3;a5;a2;a11;a6,0.03848799999104813
+Australian Credit Approval,R4_F2,4,2,14,11,21.42857142857143,a8;a9;a10;a7;a14;a4;a3;a5;a2;a6;a12,0.03909220005152747
+Australian Credit Approval,R4_F3,4,3,14,11,21.42857142857143,a8;a9;a10;a7;a14;a3;a4;a2;a5;a12;a6,0.03829480003332719
+Australian Credit Approval,R4_F4,4,4,14,11,21.42857142857143,a8;a9;a10;a7;a3;a4;a14;a5;a2;a12;a6,0.037529799970798194
+Australian Credit Approval,R4_F5,4,5,14,11,21.42857142857143,a8;a9;a10;a7;a4;a14;a3;a5;a12;a2;a6,0.039567200001329184
+Australian Credit Approval,R5_F1,5,1,14,11,21.42857142857143,a8;a9;a7;a10;a4;a3;a14;a2;a5;a6;a12,0.037390499957837164
+Australian Credit Approval,R5_F2,5,2,14,11,21.42857142857143,a8;a9;a10;a7;a14;a4;a3;a5;a2;a12;a6,0.03924760001245886
+Australian Credit Approval,R5_F3,5,3,14,11,21.42857142857143,a8;a9;a10;a7;a14;a3;a4;a5;a2;a6;a12,0.039451399992685765
+Australian Credit Approval,R5_F4,5,4,14,11,21.42857142857143,a8;a9;a10;a7;a4;a3;a14;a5;a12;a2;a6,0.03706989996135235
+Australian Credit Approval,R5_F5,5,5,14,11,21.42857142857143,a8;a9;a10;a7;a14;a4;a3;a5;a2;a12;a6,0.039143399975728244
+Taiwan Credit Card Default,R1_F1,1,1,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;limit_bal;pay_5;pay_6;education;sex;pay_amt6;pay_amt5;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;age;bill_amt2,0.10133780003525317
+Taiwan Credit Card Default,R1_F2,1,2,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt6;pay_amt5;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.0921416999772191
+Taiwan Credit Card Default,R1_F3,1,3,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt1;pay_amt6;marriage;pay_amt5;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.09329180000349879
+Taiwan Credit Card Default,R1_F4,1,4,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;pay_amt1;marriage;pay_amt4;pay_amt3;pay_amt2;age;bill_amt2,0.10321540001314133
+Taiwan Credit Card Default,R1_F5,1,5,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;pay_amt1;marriage;pay_amt2;pay_amt4;pay_amt3;age;bill_amt1,0.10400010005105287
+Taiwan Credit Card Default,R2_F1,2,1,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt1;pay_amt6;marriage;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.1024609999731183
+Taiwan Credit Card Default,R2_F2,2,2,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;limit_bal;pay_6;education;sex;pay_amt5;pay_amt6;pay_amt1;marriage;pay_amt4;pay_amt2;pay_amt3;age;bill_amt1,0.10195240000030026
+Taiwan Credit Card Default,R2_F3,2,3,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt1;pay_amt6;marriage;pay_amt5;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.10255490004783496
+Taiwan Credit Card Default,R2_F4,2,4,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt6;pay_amt5;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;bill_amt2;age,0.10279440000886098
+Taiwan Credit Card Default,R2_F5,2,5,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.10258990002330393
+Taiwan Credit Card Default,R3_F1,3,1,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt1;pay_amt5;marriage;pay_amt4;pay_amt6;pay_amt3;pay_amt2;bill_amt1;age,0.10328300000401214
+Taiwan Credit Card Default,R3_F2,3,2,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;limit_bal;pay_5;pay_6;education;sex;pay_amt6;pay_amt5;marriage;pay_amt1;pay_amt4;pay_amt2;pay_amt3;age;bill_amt1,0.10563359997468069
+Taiwan Credit Card Default,R3_F3,3,3,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;marriage;pay_amt4;pay_amt1;pay_amt3;pay_amt2;age;bill_amt2,0.10514160001184791
+Taiwan Credit Card Default,R3_F4,3,4,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt6;pay_amt5;pay_amt1;pay_amt4;marriage;pay_amt3;pay_amt2;bill_amt2;bill_amt1,0.10515649995068088
+Taiwan Credit Card Default,R3_F5,3,5,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.10534680000273511
+Taiwan Credit Card Default,R4_F1,4,1,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;marriage;pay_amt1;pay_amt4;pay_amt2;pay_amt3;age;bill_amt2,0.11119839997263625
+Taiwan Credit Card Default,R4_F2,4,2,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt1;pay_amt5;pay_amt4;marriage;pay_amt6;pay_amt3;pay_amt2;age;bill_amt1,0.10667680000187829
+Taiwan Credit Card Default,R4_F3,4,3,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt6;pay_amt5;marriage;pay_amt4;pay_amt1;pay_amt3;pay_amt2;age;bill_amt1,0.10829030000604689
+Taiwan Credit Card Default,R4_F4,4,4,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt6;pay_amt1;pay_amt5;marriage;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.10817710001720116
+Taiwan Credit Card Default,R4_F5,4,5,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;limit_bal;pay_5;pay_6;education;sex;pay_amt5;pay_amt6;pay_amt1;marriage;pay_amt4;pay_amt3;pay_amt2;bill_amt2;bill_amt1,0.11262830003397539
+Taiwan Credit Card Default,R5_F1,5,1,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt1;marriage;pay_amt6;pay_amt4;pay_amt3;pay_amt2;age;bill_amt2,0.11084430001210421
+Taiwan Credit Card Default,R5_F2,5,2,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt1;pay_amt5;marriage;pay_amt4;pay_amt6;pay_amt3;pay_amt2;age;bill_amt1,0.1077876000199467
+Taiwan Credit Card Default,R5_F3,5,3,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.10899139998946339
+Taiwan Credit Card Default,R5_F4,5,4,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt6;pay_amt5;marriage;pay_amt1;pay_amt4;pay_amt2;pay_amt3;age;bill_amt1,0.1606508999830112
+Taiwan Credit Card Default,R5_F5,5,5,23,18,21.739130434782606,pay_0;pay_2;pay_3;pay_4;limit_bal;pay_5;pay_6;education;sex;pay_amt5;pay_amt6;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;bill_amt1;bill_amt2,0.10964469995815307

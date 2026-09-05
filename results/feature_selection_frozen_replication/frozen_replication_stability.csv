@@ -1,0 +1,3 @@
+dataset,pairwise_comparisons,mean_jaccard,std_jaccard,min_jaccard,max_jaccard
+Australian Credit Approval,300,0.9622222222222221,0.06989578340353908,0.8333333333333334,1.0
+Taiwan Credit Card Default,300,0.943157894736842,0.05255054490554802,0.8947368421052632,1.0

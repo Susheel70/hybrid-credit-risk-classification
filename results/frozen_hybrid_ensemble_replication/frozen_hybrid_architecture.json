@@ -1,0 +1,27 @@
+{
+    "development_dataset": "German Credit",
+    "feature_selection": "Group-aware Chi-Square Top75",
+    "retained_source_feature_fraction": 0.75,
+    "training_regime": "Balanced",
+    "base_learners": [
+        "LR",
+        "RF",
+        "XGB"
+    ],
+    "fusion_rule": "Equal-probability soft voting",
+    "classification_threshold": 0.5,
+    "external_replication_datasets": [
+        "Australian Credit Approval",
+        "Taiwan Credit Card Default"
+    ],
+    "external_retuning_permitted": false,
+    "german_development_metrics": {
+        "roc_auc": 0.7988015059442607,
+        "pr_auc": 0.6348971004203964,
+        "recall": 0.6265063083613087,
+        "precision": 0.5865047616054124,
+        "f1": 0.6030748803699565,
+        "balanced_accuracy": 0.7183547481403739,
+        "mcc": 0.4285895190336244
+    }
+}

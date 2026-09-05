@@ -1,0 +1,4 @@
+dataset,model,ROC_AUC_mean,ROC_AUC_std,PR_AUC_mean,PR_AUC_std,Adverse_Recall_mean,Adverse_Precision_mean,F1_mean,Balanced_Accuracy_mean,MCC_mean,MCC_std,GMean_mean,KS_mean,Runtime_mean_seconds,Transformed_Features
+Australian Credit Approval,RF,0.9308,0.0169,0.9269,0.0297,0.8753,0.8946,0.884,0.8735,0.7449,0.0425,0.8729,0.7789,1.1262,42.0
+German Credit,XGB,0.7904,0.0238,0.6324,0.061,0.4783,0.6401,0.5443,0.6817,0.3988,0.0757,0.6485,0.4788,0.4844,61.0
+Taiwan Credit Card Default,XGB,0.7832,0.0069,0.5605,0.0118,0.368,0.6715,0.4753,0.6584,0.4029,0.016,0.5908,0.4366,1.3745,29.0

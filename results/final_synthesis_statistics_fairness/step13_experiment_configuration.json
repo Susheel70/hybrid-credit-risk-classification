@@ -1,0 +1,22 @@
+{
+    "stage": "Objective 3 Step 13 - final ablation, corrected statistics, and fairness audit",
+    "framework_status": "frozen",
+    "ablation_stages": [
+        "A0_Baseline_XGB",
+        "A1_FrozenFS_XGB",
+        "A2_FrozenFS_BalancedXGB",
+        "A3_Hybrid_SoftVote",
+        "A4_Hybrid_Sigmoid",
+        "A5_Full_CostAware"
+    ],
+    "primary_final_comparator": "All-feature unweighted XGBoost baseline",
+    "statistical_test": "Nadeau-Bengio corrected repeated-CV t-test",
+    "multiple_testing_correction": "Holm adjustment within each dataset",
+    "fairness_dataset": "Taiwan Credit Card Default",
+    "fairness_attributes": [
+        "sex",
+        "age_group"
+    ],
+    "fairness_interpretation": "Descriptive audit only; no universal fairness claim",
+    "cost_interpretation": "FN:FP=2:1 is a reference asymmetric-loss scenario, not actual bank monetary cost"
+}

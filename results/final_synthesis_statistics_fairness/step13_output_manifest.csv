@@ -1,0 +1,17 @@
+generated_file
+cross_dataset_calibration_table.csv
+figures/ablation_balanced_accuracy.png
+figures/ablation_mcc.png
+figures/ablation_recall.png
+figures/taiwan_fairness_age.png
+figures/taiwan_fairness_sex.png
+final_ablation_fold_level.csv
+final_framework_cross_dataset_table.csv
+final_framework_vs_baseline_summary.csv
+final_vs_baseline_corrected_statistics.csv
+manuscript_ready_ablation_table.csv
+step13_experiment_configuration.json
+taiwan_fairness_fold_metrics.csv
+taiwan_fairness_gap_by_run.csv
+taiwan_fairness_gap_summary.csv
+taiwan_fairness_group_summary.csv

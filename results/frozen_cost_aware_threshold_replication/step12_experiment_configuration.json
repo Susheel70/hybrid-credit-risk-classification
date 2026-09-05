@@ -1,0 +1,13 @@
+{
+    "stage": "Objective 3 Step 12 - frozen cost-aware threshold replication",
+    "development_dataset": "German Credit",
+    "replication_datasets": [
+        "Australian Credit Approval",
+        "Taiwan Credit Card Default"
+    ],
+    "frozen_threshold_rule": "Minimize FP + 2*FN",
+    "threshold_training_data": "Cross-fitted sigmoid-calibrated inner OOF hybrid probabilities from each outer-training fold",
+    "threshold_numeric_value": "Adapted from each training partition; not globally fixed",
+    "outer_test_used_for_threshold_selection": false,
+    "cost_interpretation": "Reference asymmetric-loss scenario, not actual monetary bank cost"
+}

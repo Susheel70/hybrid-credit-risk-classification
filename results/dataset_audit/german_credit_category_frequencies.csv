@@ -1,0 +1,55 @@
+dataset,column,value,count,percentage
+German Credit,status,no checking account,394,39.4
+German Credit,status,... < 100 DM,274,27.4
+German Credit,status,0 <= ... < 200 DM,269,26.9
+German Credit,status,... >= 200 DM / salary for at least 1 year,63,6.3
+German Credit,credit_history,existing credits paid back duly till now,530,53.0
+German Credit,credit_history,critical account/other credits existing,293,29.3
+German Credit,credit_history,delay in paying off in the past,88,8.8
+German Credit,credit_history,all credits at this bank paid back duly,49,4.9
+German Credit,credit_history,no credits taken/all credits paid back duly,40,4.0
+German Credit,purpose,domestic appliances,280,28.0
+German Credit,purpose,car (new),234,23.4
+German Credit,purpose,radio/television,181,18.1
+German Credit,purpose,car (used),103,10.3
+German Credit,purpose,others,97,9.7
+German Credit,purpose,retraining,50,5.0
+German Credit,purpose,education,22,2.2
+German Credit,purpose,repairs,12,1.2
+German Credit,purpose,furniture/equipment,12,1.2
+German Credit,purpose,business,9,0.9
+German Credit,savings,... < 100 DM,603,60.3
+German Credit,savings,unknown/no savings account,183,18.3
+German Credit,savings,100 <= ... < 500 DM,103,10.3
+German Credit,savings,500 <= ... < 1000 DM,63,6.3
+German Credit,savings,... >= 1000 DM,48,4.8
+German Credit,employment_duration,1 <= ... < 4 years,339,33.9
+German Credit,employment_duration,... >= 7 years,253,25.3
+German Credit,employment_duration,4 <= ... < 7 years,174,17.4
+German Credit,employment_duration,... < 1 year,172,17.2
+German Credit,employment_duration,unemployed,62,6.2
+German Credit,personal_status_sex,male : single,548,54.8
+German Credit,personal_status_sex,female : divorced/separated/married,310,31.0
+German Credit,personal_status_sex,male : married/widowed,92,9.2
+German Credit,personal_status_sex,male : divorced/separated,50,5.0
+German Credit,other_debtors,none,907,90.7
+German Credit,other_debtors,guarantor,52,5.2
+German Credit,other_debtors,co-applicant,41,4.1
+German Credit,property,car or other,332,33.2
+German Credit,property,real estate,282,28.2
+German Credit,property,building society savings agreement/life insurance,232,23.2
+German Credit,property,unknown/no property,154,15.4
+German Credit,other_installment_plans,none,814,81.4
+German Credit,other_installment_plans,bank,139,13.9
+German Credit,other_installment_plans,stores,47,4.7
+German Credit,housing,own,713,71.3
+German Credit,housing,rent,179,17.9
+German Credit,housing,for free,108,10.8
+German Credit,job,skilled employee/official,630,63.0
+German Credit,job,unskilled - resident,200,20.0
+German Credit,job,management/self-employed/highly qualified employee/officer,148,14.8
+German Credit,job,unemployed/unskilled - non-resident,22,2.2
+German Credit,telephone,no,596,59.6
+German Credit,telephone,yes,404,40.4
+German Credit,foreign_worker,yes,963,96.3
+German Credit,foreign_worker,no,37,3.7

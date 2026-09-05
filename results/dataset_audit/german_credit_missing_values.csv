@@ -1,0 +1,23 @@
+dataset,column,missing_values,missing_percentage
+German Credit,status,0,0.0
+German Credit,duration,0,0.0
+German Credit,credit_history,0,0.0
+German Credit,purpose,0,0.0
+German Credit,amount,0,0.0
+German Credit,savings,0,0.0
+German Credit,employment_duration,0,0.0
+German Credit,installment_rate,0,0.0
+German Credit,personal_status_sex,0,0.0
+German Credit,other_debtors,0,0.0
+German Credit,present_residence,0,0.0
+German Credit,property,0,0.0
+German Credit,age,0,0.0
+German Credit,other_installment_plans,0,0.0
+German Credit,housing,0,0.0
+German Credit,number_credits,0,0.0
+German Credit,job,0,0.0
+German Credit,people_liable,0,0.0
+German Credit,telephone,0,0.0
+German Credit,foreign_worker,0,0.0
+German Credit,credit_risk,0,0.0
+German Credit,adverse_target,0,0.0

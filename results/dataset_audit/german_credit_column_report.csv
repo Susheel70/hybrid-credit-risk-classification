@@ -1,0 +1,23 @@
+dataset,column,role,pandas_dtype,unique_values,missing_values,missing_percentage
+German Credit,status,categorical,object,4,0,0.0
+German Credit,duration,numerical,int64,33,0,0.0
+German Credit,credit_history,categorical,object,5,0,0.0
+German Credit,purpose,categorical,object,10,0,0.0
+German Credit,amount,numerical,int64,921,0,0.0
+German Credit,savings,categorical,object,5,0,0.0
+German Credit,employment_duration,categorical,object,5,0,0.0
+German Credit,installment_rate,numerical,int64,4,0,0.0
+German Credit,personal_status_sex,categorical,object,4,0,0.0
+German Credit,other_debtors,categorical,object,3,0,0.0
+German Credit,present_residence,numerical,int64,4,0,0.0
+German Credit,property,categorical,object,4,0,0.0
+German Credit,age,numerical,int64,53,0,0.0
+German Credit,other_installment_plans,categorical,object,3,0,0.0
+German Credit,housing,categorical,object,3,0,0.0
+German Credit,number_credits,numerical,int64,4,0,0.0
+German Credit,job,categorical,object,4,0,0.0
+German Credit,people_liable,numerical,int64,2,0,0.0
+German Credit,telephone,categorical,object,2,0,0.0
+German Credit,foreign_worker,categorical,object,2,0,0.0
+German Credit,credit_risk,original_target,int32,2,0,0.0
+German Credit,adverse_target,unified_target,int32,2,0,0.0

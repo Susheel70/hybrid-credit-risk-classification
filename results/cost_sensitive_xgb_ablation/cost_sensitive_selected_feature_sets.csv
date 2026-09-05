@@ -1,0 +1,76 @@
+dataset,run_id,repeat,fold,selected_source_features,selected_features,feature_selection_runtime_seconds
+Australian Credit Approval,R1_F1,1,1,11,a8;a9;a7;a10;a4;a3;a14;a5;a11;a2;a6,0.02175610000267625
+Australian Credit Approval,R1_F2,1,2,11,a8;a9;a10;a7;a14;a4;a3;a2;a5;a6;a12,0.0381385000073351
+Australian Credit Approval,R1_F3,1,3,11,a8;a9;a10;a7;a4;a14;a3;a5;a12;a2;a6,0.037980400025844574
+Australian Credit Approval,R1_F4,1,4,11,a8;a9;a10;a7;a4;a3;a14;a5;a12;a2;a6,0.03819240001030266
+Australian Credit Approval,R1_F5,1,5,11,a8;a9;a10;a7;a14;a3;a5;a4;a2;a12;a6,0.03821389999939129
+Australian Credit Approval,R2_F1,2,1,11,a8;a9;a10;a7;a4;a3;a14;a5;a2;a12;a6,0.037896000023465604
+Australian Credit Approval,R2_F2,2,2,11,a8;a9;a10;a7;a4;a14;a3;a6;a5;a2;a12,0.03823109995573759
+Australian Credit Approval,R2_F3,2,3,11,a8;a9;a7;a10;a14;a4;a3;a5;a2;a12;a6,0.03903310000896454
+Australian Credit Approval,R2_F4,2,4,11,a8;a9;a10;a7;a4;a14;a3;a5;a12;a2;a6,0.0386902000172995
+Australian Credit Approval,R2_F5,2,5,11,a8;a9;a10;a7;a14;a3;a4;a5;a2;a6;a13,0.03796739998506382
+Australian Credit Approval,R3_F1,3,1,11,a8;a9;a10;a7;a3;a4;a14;a2;a5;a6;a12,0.039082399976905435
+Australian Credit Approval,R3_F2,3,2,11,a8;a9;a10;a7;a14;a3;a4;a5;a2;a12;a6,0.03944719996070489
+Australian Credit Approval,R3_F3,3,3,11,a8;a9;a10;a7;a4;a14;a3;a5;a12;a2;a6,0.03960289998212829
+Australian Credit Approval,R3_F4,3,4,11,a8;a9;a10;a7;a14;a4;a3;a5;a2;a6;a12,0.03924610000103712
+Australian Credit Approval,R3_F5,3,5,11,a8;a9;a10;a7;a14;a4;a3;a5;a2;a12;a6,0.03960620000725612
+Australian Credit Approval,R4_F1,4,1,11,a8;a9;a10;a7;a4;a14;a3;a5;a2;a11;a6,0.039670799975283444
+Australian Credit Approval,R4_F2,4,2,11,a8;a9;a10;a7;a14;a4;a3;a5;a2;a6;a12,0.03950400004396215
+Australian Credit Approval,R4_F3,4,3,11,a8;a9;a10;a7;a14;a3;a4;a2;a5;a12;a6,0.04101380001520738
+Australian Credit Approval,R4_F4,4,4,11,a8;a9;a10;a7;a3;a4;a14;a5;a2;a12;a6,0.043318499985616654
+Australian Credit Approval,R4_F5,4,5,11,a8;a9;a10;a7;a4;a14;a3;a5;a12;a2;a6,0.04108460003044456
+Australian Credit Approval,R5_F1,5,1,11,a8;a9;a7;a10;a4;a3;a14;a2;a5;a6;a12,0.04198679997352883
+Australian Credit Approval,R5_F2,5,2,11,a8;a9;a10;a7;a14;a4;a3;a5;a2;a12;a6,0.04152819997398183
+Australian Credit Approval,R5_F3,5,3,11,a8;a9;a10;a7;a14;a3;a4;a5;a2;a6;a12,0.042164099984802306
+Australian Credit Approval,R5_F4,5,4,11,a8;a9;a10;a7;a4;a3;a14;a5;a12;a2;a6,0.041863300022669137
+Australian Credit Approval,R5_F5,5,5,11,a8;a9;a10;a7;a14;a4;a3;a5;a2;a12;a6,0.04158560000360012
+German Credit,R1_F1,1,1,15,status;housing;savings;other_installment_plans;credit_history;duration;amount;property;foreign_worker;purpose;employment_duration;personal_status_sex;installment_rate;other_debtors;age,0.049513200006913394
+German Credit,R1_F2,1,2,15,status;duration;credit_history;housing;savings;amount;other_installment_plans;property;employment_duration;personal_status_sex;purpose;foreign_worker;number_credits;telephone;other_debtors,0.04910780000500381
+German Credit,R1_F3,1,3,15,status;duration;credit_history;savings;housing;other_installment_plans;amount;property;purpose;employment_duration;age;personal_status_sex;foreign_worker;installment_rate;telephone,0.04921899997862056
+German Credit,R1_F4,1,4,15,status;housing;savings;credit_history;duration;amount;employment_duration;property;personal_status_sex;age;other_installment_plans;purpose;other_debtors;foreign_worker;telephone,0.04963860003044829
+German Credit,R1_F5,1,5,15,status;duration;housing;credit_history;other_installment_plans;savings;amount;property;installment_rate;foreign_worker;purpose;employment_duration;other_debtors;personal_status_sex;age,0.049731100036296993
+German Credit,R2_F1,2,1,15,status;savings;housing;credit_history;duration;other_installment_plans;amount;employment_duration;personal_status_sex;purpose;foreign_worker;other_debtors;property;age;people_liable,0.049643300008028746
+German Credit,R2_F2,2,2,15,duration;status;housing;other_installment_plans;credit_history;savings;property;employment_duration;purpose;amount;personal_status_sex;foreign_worker;other_debtors;installment_rate;telephone,0.05034489999525249
+German Credit,R2_F3,2,3,15,savings;status;housing;credit_history;duration;amount;property;purpose;other_installment_plans;employment_duration;foreign_worker;installment_rate;personal_status_sex;age;other_debtors,0.048616599990054965
+German Credit,R2_F4,2,4,15,status;duration;other_installment_plans;savings;credit_history;amount;housing;employment_duration;property;foreign_worker;installment_rate;purpose;age;personal_status_sex;other_debtors,0.048889199970290065
+German Credit,R2_F5,2,5,15,status;housing;duration;credit_history;savings;amount;employment_duration;personal_status_sex;purpose;property;other_installment_plans;foreign_worker;other_debtors;age;installment_rate,0.048984199995175004
+German Credit,R3_F1,3,1,15,status;housing;savings;other_installment_plans;duration;credit_history;amount;purpose;property;foreign_worker;personal_status_sex;installment_rate;age;employment_duration;other_debtors,0.04897269996581599
+German Credit,R3_F2,3,2,15,status;housing;savings;duration;credit_history;other_installment_plans;employment_duration;telephone;amount;personal_status_sex;property;other_debtors;purpose;foreign_worker;number_credits,0.04878820001613349
+German Credit,R3_F3,3,3,15,status;duration;housing;savings;amount;credit_history;other_installment_plans;property;employment_duration;purpose;age;foreign_worker;other_debtors;personal_status_sex;number_credits,0.05131419998360798
+German Credit,R3_F4,3,4,15,status;duration;credit_history;savings;amount;housing;other_installment_plans;personal_status_sex;employment_duration;foreign_worker;purpose;property;other_debtors;age;telephone,0.05135530000552535
+German Credit,R3_F5,3,5,15,status;duration;credit_history;housing;savings;amount;property;other_installment_plans;employment_duration;personal_status_sex;purpose;foreign_worker;installment_rate;age;other_debtors,0.05113799998071045
+German Credit,R4_F1,4,1,15,status;duration;housing;credit_history;savings;other_installment_plans;amount;purpose;employment_duration;property;foreign_worker;other_debtors;age;personal_status_sex;telephone,0.051304399967193604
+German Credit,R4_F2,4,2,15,status;savings;duration;housing;credit_history;amount;other_installment_plans;installment_rate;employment_duration;foreign_worker;purpose;property;other_debtors;personal_status_sex;age,0.050147000001743436
+German Credit,R4_F3,4,3,15,status;duration;other_installment_plans;savings;housing;credit_history;property;amount;employment_duration;foreign_worker;purpose;personal_status_sex;other_debtors;age;people_liable,0.050561800017021596
+German Credit,R4_F4,4,4,15,status;duration;other_installment_plans;savings;housing;credit_history;personal_status_sex;property;amount;employment_duration;purpose;installment_rate;foreign_worker;age;other_debtors,0.05098050000378862
+German Credit,R4_F5,4,5,15,status;housing;duration;credit_history;amount;savings;property;employment_duration;personal_status_sex;foreign_worker;age;purpose;other_installment_plans;installment_rate;other_debtors,0.05275540001457557
+German Credit,R5_F1,5,1,15,status;housing;savings;credit_history;other_installment_plans;duration;amount;employment_duration;property;foreign_worker;purpose;age;personal_status_sex;other_debtors;installment_rate,0.052913300052750856
+German Credit,R5_F2,5,2,15,housing;status;savings;duration;credit_history;amount;other_installment_plans;foreign_worker;property;employment_duration;installment_rate;personal_status_sex;purpose;age;other_debtors,0.05118479998782277
+German Credit,R5_F3,5,3,15,status;duration;credit_history;savings;housing;other_installment_plans;employment_duration;purpose;amount;personal_status_sex;foreign_worker;property;age;telephone;installment_rate,0.050825699989218265
+German Credit,R5_F4,5,4,15,status;savings;credit_history;duration;housing;amount;other_installment_plans;property;employment_duration;other_debtors;purpose;personal_status_sex;foreign_worker;telephone;installment_rate,0.050747199973557144
+German Credit,R5_F5,5,5,15,status;duration;housing;credit_history;savings;amount;other_installment_plans;personal_status_sex;employment_duration;property;purpose;foreign_worker;other_debtors;installment_rate;number_credits,0.052366299962159246
+Taiwan Credit Card Default,R1_F1,1,1,18,pay_0;pay_2;pay_3;pay_4;limit_bal;pay_5;pay_6;education;sex;pay_amt6;pay_amt5;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;age;bill_amt2,0.13521129998844117
+Taiwan Credit Card Default,R1_F2,1,2,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt6;pay_amt5;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.12022320000687614
+Taiwan Credit Card Default,R1_F3,1,3,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt1;pay_amt6;marriage;pay_amt5;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.12688880000496283
+Taiwan Credit Card Default,R1_F4,1,4,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;pay_amt1;marriage;pay_amt4;pay_amt3;pay_amt2;age;bill_amt2,0.13562229997478426
+Taiwan Credit Card Default,R1_F5,1,5,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;pay_amt1;marriage;pay_amt2;pay_amt4;pay_amt3;age;bill_amt1,0.1203957999823615
+Taiwan Credit Card Default,R2_F1,2,1,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt1;pay_amt6;marriage;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.13848990004044026
+Taiwan Credit Card Default,R2_F2,2,2,18,pay_0;pay_2;pay_3;pay_4;pay_5;limit_bal;pay_6;education;sex;pay_amt5;pay_amt6;pay_amt1;marriage;pay_amt4;pay_amt2;pay_amt3;age;bill_amt1,0.12723310000728816
+Taiwan Credit Card Default,R2_F3,2,3,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt1;pay_amt6;marriage;pay_amt5;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.12582889996701851
+Taiwan Credit Card Default,R2_F4,2,4,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt6;pay_amt5;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;bill_amt2;age,0.1268815000075847
+Taiwan Credit Card Default,R2_F5,2,5,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.12189020001096651
+Taiwan Credit Card Default,R3_F1,3,1,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt1;pay_amt5;marriage;pay_amt4;pay_amt6;pay_amt3;pay_amt2;bill_amt1;age,0.12877479998860508
+Taiwan Credit Card Default,R3_F2,3,2,18,pay_0;pay_2;pay_3;pay_4;limit_bal;pay_5;pay_6;education;sex;pay_amt6;pay_amt5;marriage;pay_amt1;pay_amt4;pay_amt2;pay_amt3;age;bill_amt1,0.12564430001657456
+Taiwan Credit Card Default,R3_F3,3,3,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;marriage;pay_amt4;pay_amt1;pay_amt3;pay_amt2;age;bill_amt2,0.12325060000875965
+Taiwan Credit Card Default,R3_F4,3,4,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt6;pay_amt5;pay_amt1;pay_amt4;marriage;pay_amt3;pay_amt2;bill_amt2;bill_amt1,0.1327259999816306
+Taiwan Credit Card Default,R3_F5,3,5,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.12715079996269196
+Taiwan Credit Card Default,R4_F1,4,1,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;marriage;pay_amt1;pay_amt4;pay_amt2;pay_amt3;age;bill_amt2,0.13687239994760603
+Taiwan Credit Card Default,R4_F2,4,2,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt1;pay_amt5;pay_amt4;marriage;pay_amt6;pay_amt3;pay_amt2;age;bill_amt1,0.1256656000041403
+Taiwan Credit Card Default,R4_F3,4,3,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt6;pay_amt5;marriage;pay_amt4;pay_amt1;pay_amt3;pay_amt2;age;bill_amt1,0.12271880003390834
+Taiwan Credit Card Default,R4_F4,4,4,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt6;pay_amt1;pay_amt5;marriage;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.12859159999061376
+Taiwan Credit Card Default,R4_F5,4,5,18,pay_0;pay_2;pay_3;pay_4;limit_bal;pay_5;pay_6;education;sex;pay_amt5;pay_amt6;pay_amt1;marriage;pay_amt4;pay_amt3;pay_amt2;bill_amt2;bill_amt1,0.13203949999297038
+Taiwan Credit Card Default,R5_F1,5,1,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt1;marriage;pay_amt6;pay_amt4;pay_amt3;pay_amt2;age;bill_amt2,0.13023289997363463
+Taiwan Credit Card Default,R5_F2,5,2,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt1;pay_amt5;marriage;pay_amt4;pay_amt6;pay_amt3;pay_amt2;age;bill_amt1,0.12630709999939427
+Taiwan Credit Card Default,R5_F3,5,3,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt5;pay_amt6;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;age;bill_amt1,0.12686429999303073
+Taiwan Credit Card Default,R5_F4,5,4,18,pay_0;pay_2;pay_3;pay_4;pay_5;pay_6;limit_bal;education;sex;pay_amt6;pay_amt5;marriage;pay_amt1;pay_amt4;pay_amt2;pay_amt3;age;bill_amt1,0.14396279997890815
+Taiwan Credit Card Default,R5_F5,5,5,18,pay_0;pay_2;pay_3;pay_4;limit_bal;pay_5;pay_6;education;sex;pay_amt5;pay_amt6;marriage;pay_amt1;pay_amt4;pay_amt3;pay_amt2;bill_amt1;bill_amt2,0.12451059999875724

@@ -1,0 +1,3 @@
+dataset,adverse_target,count,percentage,class_label
+Taiwan Credit Card Default,0,23364,77.88,Favourable / non-default
+Taiwan Credit Card Default,1,6636,22.12,Adverse / default

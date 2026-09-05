@@ -1,0 +1,68 @@
+dataset,variable,role,included_in_model,linear_svm_knn_rule,tree_ensemble_rule,research_note
+Australian Credit Approval,a1,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+Australian Credit Approval,a4,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+Australian Credit Approval,a5,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+Australian Credit Approval,a6,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+Australian Credit Approval,a8,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+Australian Credit Approval,a9,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+Australian Credit Approval,a11,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+Australian Credit Approval,a12,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+Australian Credit Approval,a2,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Australian Credit Approval,a3,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Australian Credit Approval,a7,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Australian Credit Approval,a10,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Australian Credit Approval,a13,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Australian Credit Approval,a14,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Australian Credit Approval,class,original_target,False,Excluded from predictors,Excluded from predictors,Retained only for traceability
+Australian Credit Approval,adverse_target,unified_target,False,Outcome: 1 = adverse/default,Outcome: 1 = adverse/default,Common positive-class definition
+Australian Credit Approval,profile_group_id,validation_group,False,Excluded from predictors,Excluded from predictors,Keeps identical predictor profiles within one fold
+German Credit,status,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,credit_history,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,purpose,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,savings,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,employment_duration,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,personal_status_sex,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,other_debtors,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,property,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,other_installment_plans,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,housing,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,job,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,telephone,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,foreign_worker,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+German Credit,duration,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+German Credit,amount,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+German Credit,installment_rate,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+German Credit,present_residence,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+German Credit,age,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+German Credit,number_credits,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+German Credit,people_liable,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+German Credit,credit_risk,original_target,False,Excluded from predictors,Excluded from predictors,Retained only for traceability
+German Credit,adverse_target,unified_target,False,Outcome: 1 = adverse/default,Outcome: 1 = adverse/default,Common positive-class definition
+German Credit,profile_group_id,validation_group,False,Excluded from predictors,Excluded from predictors,Keeps identical predictor profiles within one fold
+Taiwan Credit Card Default,sex,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",Retained for later subgroup fairness audit
+Taiwan Credit Card Default,education,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+Taiwan Credit Card Default,marriage,categorical,True,"Most-frequent imputation, then one-hot encoding","Most-frequent imputation, then one-hot encoding",
+Taiwan Credit Card Default,pay_0,ordinal,True,"Most-frequent imputation, then standardization","Most-frequent imputation, retain ordinal values",Treated as ordered repayment-status information
+Taiwan Credit Card Default,pay_2,ordinal,True,"Most-frequent imputation, then standardization","Most-frequent imputation, retain ordinal values",Treated as ordered repayment-status information
+Taiwan Credit Card Default,pay_3,ordinal,True,"Most-frequent imputation, then standardization","Most-frequent imputation, retain ordinal values",Treated as ordered repayment-status information
+Taiwan Credit Card Default,pay_4,ordinal,True,"Most-frequent imputation, then standardization","Most-frequent imputation, retain ordinal values",Treated as ordered repayment-status information
+Taiwan Credit Card Default,pay_5,ordinal,True,"Most-frequent imputation, then standardization","Most-frequent imputation, retain ordinal values",Treated as ordered repayment-status information
+Taiwan Credit Card Default,pay_6,ordinal,True,"Most-frequent imputation, then standardization","Most-frequent imputation, retain ordinal values",Treated as ordered repayment-status information
+Taiwan Credit Card Default,limit_bal,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Taiwan Credit Card Default,age,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",Retained for later subgroup fairness audit
+Taiwan Credit Card Default,bill_amt1,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Taiwan Credit Card Default,bill_amt2,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Taiwan Credit Card Default,bill_amt3,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Taiwan Credit Card Default,bill_amt4,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Taiwan Credit Card Default,bill_amt5,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Taiwan Credit Card Default,bill_amt6,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",
+Taiwan Credit Card Default,pay_amt1,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",Treated as ordered repayment-status information
+Taiwan Credit Card Default,pay_amt2,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",Treated as ordered repayment-status information
+Taiwan Credit Card Default,pay_amt3,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",Treated as ordered repayment-status information
+Taiwan Credit Card Default,pay_amt4,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",Treated as ordered repayment-status information
+Taiwan Credit Card Default,pay_amt5,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",Treated as ordered repayment-status information
+Taiwan Credit Card Default,pay_amt6,numerical,True,"Median imputation, then standardization","Median imputation, retain original scale",Treated as ordered repayment-status information
+Taiwan Credit Card Default,id,identifier,False,Excluded from modelling,Excluded from modelling,
+Taiwan Credit Card Default,default_payment_next_month,original_target,False,Excluded from predictors,Excluded from predictors,Retained only for traceability
+Taiwan Credit Card Default,adverse_target,unified_target,False,Outcome: 1 = adverse/default,Outcome: 1 = adverse/default,Common positive-class definition
+Taiwan Credit Card Default,profile_group_id,validation_group,False,Excluded from predictors,Excluded from predictors,Keeps identical predictor profiles within one fold

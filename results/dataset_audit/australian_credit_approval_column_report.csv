@@ -1,0 +1,17 @@
+dataset,column,role,pandas_dtype,unique_values,missing_values,missing_percentage
+Australian Credit Approval,a1,categorical,int64,2,0,0.0
+Australian Credit Approval,a2,numerical,float64,350,0,0.0
+Australian Credit Approval,a3,numerical,float64,215,0,0.0
+Australian Credit Approval,a4,categorical,int64,3,0,0.0
+Australian Credit Approval,a5,categorical,int64,14,0,0.0
+Australian Credit Approval,a6,categorical,int64,8,0,0.0
+Australian Credit Approval,a7,numerical,float64,132,0,0.0
+Australian Credit Approval,a8,categorical,int64,2,0,0.0
+Australian Credit Approval,a9,categorical,int64,2,0,0.0
+Australian Credit Approval,a10,numerical,int64,23,0,0.0
+Australian Credit Approval,a11,categorical,int64,2,0,0.0
+Australian Credit Approval,a12,categorical,int64,3,0,0.0
+Australian Credit Approval,a13,numerical,int64,171,0,0.0
+Australian Credit Approval,a14,numerical,int64,240,0,0.0
+Australian Credit Approval,class,original_target,int32,2,0,0.0
+Australian Credit Approval,adverse_target,unified_target,int32,2,0,0.0

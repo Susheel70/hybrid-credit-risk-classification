@@ -1,0 +1,4 @@
+dataset,filename,file_size_bytes,sha256
+Australian Credit Approval,Australian_Credit_Approval.csv,30184,45cd692414eb3416c93e0843d148d3fcc87a5e00a7d73b8c7d74fab96101703f
+German Credit,GermanCredit.csv,225878,4891f3827d4beea8b64ce718e6af187950ab2a88386d8401daf1de9fdf3e8d49
+Taiwan Credit Card Default,default of credit card clients.xls,5539328,30c6be3abd8dcfd3e6096c828bad8c2f011238620f5369220bd60cfc82700933

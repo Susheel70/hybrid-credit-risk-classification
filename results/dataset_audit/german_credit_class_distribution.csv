@@ -1,0 +1,3 @@
+dataset,adverse_target,count,percentage,class_label
+German Credit,0,700,70.0,Favourable / non-default
+German Credit,1,300,30.0,Adverse / default

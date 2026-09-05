@@ -1,0 +1,4 @@
+dataset,records,unique_predictor_profiles,duplicate_profile_groups,records_in_duplicate_groups,conflicting_duplicate_groups,records_in_conflicting_groups,decision
+Australian Credit Approval,690,690,0,0,0,0,Retain all records; keep each predictor profile within one validation fold using profile_group_id.
+German Credit,1000,1000,0,0,0,0,Retain all records; keep each predictor profile within one validation fold using profile_group_id.
+Taiwan Credit Card Default,30000,29944,52,108,21,46,Retain all records; keep each predictor profile within one validation fold using profile_group_id.

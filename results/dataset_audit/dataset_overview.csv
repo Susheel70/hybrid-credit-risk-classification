@@ -1,0 +1,4 @@
+dataset,records,predictors,categorical_features,ordinal_features,numerical_features,identifier_columns,favourable_cases,adverse_cases,adverse_rate,total_missing_values,exact_duplicate_rows,duplicate_predictor_profiles
+Australian Credit Approval,690,14,8,0,6,0,307,383,0.555072,0,0,0
+German Credit,1000,20,13,0,7,0,700,300,0.3,0,0,0
+Taiwan Credit Card Default,30000,23,3,6,14,1,23364,6636,0.2212,0,0,56

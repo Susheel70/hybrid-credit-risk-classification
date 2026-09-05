@@ -1,0 +1,31 @@
+{
+    "stage": "Objective 3 Step 4 - German development",
+    "development_dataset": "German Credit",
+    "external_datasets_not_used_for_selection": [
+        "Australian Credit Approval",
+        "Taiwan Credit Card Default"
+    ],
+    "source_predictors": 20,
+    "selectors": [
+        "Chi2",
+        "MI",
+        "L1",
+        "RF",
+        "RFE",
+        "EqualConsensus"
+    ],
+    "subset_fractions": {
+        "Top25": 0.25,
+        "Top50": 0.5,
+        "Top75": 0.75
+    },
+    "evaluation_classifier": "Fixed Step-3 XGBoost configuration",
+    "outer_validation": "Same StratifiedGroupKFold 5x5 folds as Step 3",
+    "group_score_rule": "Mean normalized transformed-variable relevance within each original source feature",
+    "consensus_rule": "Equal mean of five normalized source-feature selector ranks",
+    "imbalance_treatment": "none",
+    "hyperparameter_tuning": "none",
+    "calibration": "none",
+    "threshold_optimization": "none",
+    "final_configuration_selection": "Manual review after Step-4 results; must use German evidence only"
+}

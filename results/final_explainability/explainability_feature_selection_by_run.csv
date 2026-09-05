@@ -1,0 +1,1426 @@
+dataset,run_id,source_feature,selected
+German Credit,R1_F1,status,1
+German Credit,R1_F1,credit_history,1
+German Credit,R1_F1,purpose,1
+German Credit,R1_F1,savings,1
+German Credit,R1_F1,employment_duration,1
+German Credit,R1_F1,personal_status_sex,1
+German Credit,R1_F1,other_debtors,1
+German Credit,R1_F1,property,1
+German Credit,R1_F1,other_installment_plans,1
+German Credit,R1_F1,housing,1
+German Credit,R1_F1,job,0
+German Credit,R1_F1,telephone,0
+German Credit,R1_F1,foreign_worker,1
+German Credit,R1_F1,duration,1
+German Credit,R1_F1,amount,1
+German Credit,R1_F1,installment_rate,1
+German Credit,R1_F1,present_residence,0
+German Credit,R1_F1,age,1
+German Credit,R1_F1,number_credits,0
+German Credit,R1_F1,people_liable,0
+German Credit,R1_F2,status,1
+German Credit,R1_F2,credit_history,1
+German Credit,R1_F2,purpose,1
+German Credit,R1_F2,savings,1
+German Credit,R1_F2,employment_duration,1
+German Credit,R1_F2,personal_status_sex,1
+German Credit,R1_F2,other_debtors,1
+German Credit,R1_F2,property,1
+German Credit,R1_F2,other_installment_plans,1
+German Credit,R1_F2,housing,1
+German Credit,R1_F2,job,0
+German Credit,R1_F2,telephone,1
+German Credit,R1_F2,foreign_worker,1
+German Credit,R1_F2,duration,1
+German Credit,R1_F2,amount,1
+German Credit,R1_F2,installment_rate,0
+German Credit,R1_F2,present_residence,0
+German Credit,R1_F2,age,0
+German Credit,R1_F2,number_credits,1
+German Credit,R1_F2,people_liable,0
+German Credit,R1_F3,status,1
+German Credit,R1_F3,credit_history,1
+German Credit,R1_F3,purpose,1
+German Credit,R1_F3,savings,1
+German Credit,R1_F3,employment_duration,1
+German Credit,R1_F3,personal_status_sex,1
+German Credit,R1_F3,other_debtors,0
+German Credit,R1_F3,property,1
+German Credit,R1_F3,other_installment_plans,1
+German Credit,R1_F3,housing,1
+German Credit,R1_F3,job,0
+German Credit,R1_F3,telephone,1
+German Credit,R1_F3,foreign_worker,1
+German Credit,R1_F3,duration,1
+German Credit,R1_F3,amount,1
+German Credit,R1_F3,installment_rate,1
+German Credit,R1_F3,present_residence,0
+German Credit,R1_F3,age,1
+German Credit,R1_F3,number_credits,0
+German Credit,R1_F3,people_liable,0
+German Credit,R1_F4,status,1
+German Credit,R1_F4,credit_history,1
+German Credit,R1_F4,purpose,1
+German Credit,R1_F4,savings,1
+German Credit,R1_F4,employment_duration,1
+German Credit,R1_F4,personal_status_sex,1
+German Credit,R1_F4,other_debtors,1
+German Credit,R1_F4,property,1
+German Credit,R1_F4,other_installment_plans,1
+German Credit,R1_F4,housing,1
+German Credit,R1_F4,job,0
+German Credit,R1_F4,telephone,1
+German Credit,R1_F4,foreign_worker,1
+German Credit,R1_F4,duration,1
+German Credit,R1_F4,amount,1
+German Credit,R1_F4,installment_rate,0
+German Credit,R1_F4,present_residence,0
+German Credit,R1_F4,age,1
+German Credit,R1_F4,number_credits,0
+German Credit,R1_F4,people_liable,0
+German Credit,R1_F5,status,1
+German Credit,R1_F5,credit_history,1
+German Credit,R1_F5,purpose,1
+German Credit,R1_F5,savings,1
+German Credit,R1_F5,employment_duration,1
+German Credit,R1_F5,personal_status_sex,1
+German Credit,R1_F5,other_debtors,1
+German Credit,R1_F5,property,1
+German Credit,R1_F5,other_installment_plans,1
+German Credit,R1_F5,housing,1
+German Credit,R1_F5,job,0
+German Credit,R1_F5,telephone,0
+German Credit,R1_F5,foreign_worker,1
+German Credit,R1_F5,duration,1
+German Credit,R1_F5,amount,1
+German Credit,R1_F5,installment_rate,1
+German Credit,R1_F5,present_residence,0
+German Credit,R1_F5,age,1
+German Credit,R1_F5,number_credits,0
+German Credit,R1_F5,people_liable,0
+German Credit,R2_F1,status,1
+German Credit,R2_F1,credit_history,1
+German Credit,R2_F1,purpose,1
+German Credit,R2_F1,savings,1
+German Credit,R2_F1,employment_duration,1
+German Credit,R2_F1,personal_status_sex,1
+German Credit,R2_F1,other_debtors,1
+German Credit,R2_F1,property,1
+German Credit,R2_F1,other_installment_plans,1
+German Credit,R2_F1,housing,1
+German Credit,R2_F1,job,0
+German Credit,R2_F1,telephone,0
+German Credit,R2_F1,foreign_worker,1
+German Credit,R2_F1,duration,1
+German Credit,R2_F1,amount,1
+German Credit,R2_F1,installment_rate,0
+German Credit,R2_F1,present_residence,0
+German Credit,R2_F1,age,1
+German Credit,R2_F1,number_credits,0
+German Credit,R2_F1,people_liable,1
+German Credit,R2_F2,status,1
+German Credit,R2_F2,credit_history,1
+German Credit,R2_F2,purpose,1
+German Credit,R2_F2,savings,1
+German Credit,R2_F2,employment_duration,1
+German Credit,R2_F2,personal_status_sex,1
+German Credit,R2_F2,other_debtors,1
+German Credit,R2_F2,property,1
+German Credit,R2_F2,other_installment_plans,1
+German Credit,R2_F2,housing,1
+German Credit,R2_F2,job,0
+German Credit,R2_F2,telephone,1
+German Credit,R2_F2,foreign_worker,1
+German Credit,R2_F2,duration,1
+German Credit,R2_F2,amount,1
+German Credit,R2_F2,installment_rate,1
+German Credit,R2_F2,present_residence,0
+German Credit,R2_F2,age,0
+German Credit,R2_F2,number_credits,0
+German Credit,R2_F2,people_liable,0
+German Credit,R2_F3,status,1
+German Credit,R2_F3,credit_history,1
+German Credit,R2_F3,purpose,1
+German Credit,R2_F3,savings,1
+German Credit,R2_F3,employment_duration,1
+German Credit,R2_F3,personal_status_sex,1
+German Credit,R2_F3,other_debtors,1
+German Credit,R2_F3,property,1
+German Credit,R2_F3,other_installment_plans,1
+German Credit,R2_F3,housing,1
+German Credit,R2_F3,job,0
+German Credit,R2_F3,telephone,0
+German Credit,R2_F3,foreign_worker,1
+German Credit,R2_F3,duration,1
+German Credit,R2_F3,amount,1
+German Credit,R2_F3,installment_rate,1
+German Credit,R2_F3,present_residence,0
+German Credit,R2_F3,age,1
+German Credit,R2_F3,number_credits,0
+German Credit,R2_F3,people_liable,0
+German Credit,R2_F4,status,1
+German Credit,R2_F4,credit_history,1
+German Credit,R2_F4,purpose,1
+German Credit,R2_F4,savings,1
+German Credit,R2_F4,employment_duration,1
+German Credit,R2_F4,personal_status_sex,1
+German Credit,R2_F4,other_debtors,1
+German Credit,R2_F4,property,1
+German Credit,R2_F4,other_installment_plans,1
+German Credit,R2_F4,housing,1
+German Credit,R2_F4,job,0
+German Credit,R2_F4,telephone,0
+German Credit,R2_F4,foreign_worker,1
+German Credit,R2_F4,duration,1
+German Credit,R2_F4,amount,1
+German Credit,R2_F4,installment_rate,1
+German Credit,R2_F4,present_residence,0
+German Credit,R2_F4,age,1
+German Credit,R2_F4,number_credits,0
+German Credit,R2_F4,people_liable,0
+German Credit,R2_F5,status,1
+German Credit,R2_F5,credit_history,1
+German Credit,R2_F5,purpose,1
+German Credit,R2_F5,savings,1
+German Credit,R2_F5,employment_duration,1
+German Credit,R2_F5,personal_status_sex,1
+German Credit,R2_F5,other_debtors,1
+German Credit,R2_F5,property,1
+German Credit,R2_F5,other_installment_plans,1
+German Credit,R2_F5,housing,1
+German Credit,R2_F5,job,0
+German Credit,R2_F5,telephone,0
+German Credit,R2_F5,foreign_worker,1
+German Credit,R2_F5,duration,1
+German Credit,R2_F5,amount,1
+German Credit,R2_F5,installment_rate,1
+German Credit,R2_F5,present_residence,0
+German Credit,R2_F5,age,1
+German Credit,R2_F5,number_credits,0
+German Credit,R2_F5,people_liable,0
+German Credit,R3_F1,status,1
+German Credit,R3_F1,credit_history,1
+German Credit,R3_F1,purpose,1
+German Credit,R3_F1,savings,1
+German Credit,R3_F1,employment_duration,1
+German Credit,R3_F1,personal_status_sex,1
+German Credit,R3_F1,other_debtors,1
+German Credit,R3_F1,property,1
+German Credit,R3_F1,other_installment_plans,1
+German Credit,R3_F1,housing,1
+German Credit,R3_F1,job,0
+German Credit,R3_F1,telephone,0
+German Credit,R3_F1,foreign_worker,1
+German Credit,R3_F1,duration,1
+German Credit,R3_F1,amount,1
+German Credit,R3_F1,installment_rate,1
+German Credit,R3_F1,present_residence,0
+German Credit,R3_F1,age,1
+German Credit,R3_F1,number_credits,0
+German Credit,R3_F1,people_liable,0
+German Credit,R3_F2,status,1
+German Credit,R3_F2,credit_history,1
+German Credit,R3_F2,purpose,1
+German Credit,R3_F2,savings,1
+German Credit,R3_F2,employment_duration,1
+German Credit,R3_F2,personal_status_sex,1
+German Credit,R3_F2,other_debtors,1
+German Credit,R3_F2,property,1
+German Credit,R3_F2,other_installment_plans,1
+German Credit,R3_F2,housing,1
+German Credit,R3_F2,job,0
+German Credit,R3_F2,telephone,1
+German Credit,R3_F2,foreign_worker,1
+German Credit,R3_F2,duration,1
+German Credit,R3_F2,amount,1
+German Credit,R3_F2,installment_rate,0
+German Credit,R3_F2,present_residence,0
+German Credit,R3_F2,age,0
+German Credit,R3_F2,number_credits,1
+German Credit,R3_F2,people_liable,0
+German Credit,R3_F3,status,1
+German Credit,R3_F3,credit_history,1
+German Credit,R3_F3,purpose,1
+German Credit,R3_F3,savings,1
+German Credit,R3_F3,employment_duration,1
+German Credit,R3_F3,personal_status_sex,1
+German Credit,R3_F3,other_debtors,1
+German Credit,R3_F3,property,1
+German Credit,R3_F3,other_installment_plans,1
+German Credit,R3_F3,housing,1
+German Credit,R3_F3,job,0
+German Credit,R3_F3,telephone,0
+German Credit,R3_F3,foreign_worker,1
+German Credit,R3_F3,duration,1
+German Credit,R3_F3,amount,1
+German Credit,R3_F3,installment_rate,0
+German Credit,R3_F3,present_residence,0
+German Credit,R3_F3,age,1
+German Credit,R3_F3,number_credits,1
+German Credit,R3_F3,people_liable,0
+German Credit,R3_F4,status,1
+German Credit,R3_F4,credit_history,1
+German Credit,R3_F4,purpose,1
+German Credit,R3_F4,savings,1
+German Credit,R3_F4,employment_duration,1
+German Credit,R3_F4,personal_status_sex,1
+German Credit,R3_F4,other_debtors,1
+German Credit,R3_F4,property,1
+German Credit,R3_F4,other_installment_plans,1
+German Credit,R3_F4,housing,1
+German Credit,R3_F4,job,0
+German Credit,R3_F4,telephone,1
+German Credit,R3_F4,foreign_worker,1
+German Credit,R3_F4,duration,1
+German Credit,R3_F4,amount,1
+German Credit,R3_F4,installment_rate,0
+German Credit,R3_F4,present_residence,0
+German Credit,R3_F4,age,1
+German Credit,R3_F4,number_credits,0
+German Credit,R3_F4,people_liable,0
+German Credit,R3_F5,status,1
+German Credit,R3_F5,credit_history,1
+German Credit,R3_F5,purpose,1
+German Credit,R3_F5,savings,1
+German Credit,R3_F5,employment_duration,1
+German Credit,R3_F5,personal_status_sex,1
+German Credit,R3_F5,other_debtors,1
+German Credit,R3_F5,property,1
+German Credit,R3_F5,other_installment_plans,1
+German Credit,R3_F5,housing,1
+German Credit,R3_F5,job,0
+German Credit,R3_F5,telephone,0
+German Credit,R3_F5,foreign_worker,1
+German Credit,R3_F5,duration,1
+German Credit,R3_F5,amount,1
+German Credit,R3_F5,installment_rate,1
+German Credit,R3_F5,present_residence,0
+German Credit,R3_F5,age,1
+German Credit,R3_F5,number_credits,0
+German Credit,R3_F5,people_liable,0
+German Credit,R4_F1,status,1
+German Credit,R4_F1,credit_history,1
+German Credit,R4_F1,purpose,1
+German Credit,R4_F1,savings,1
+German Credit,R4_F1,employment_duration,1
+German Credit,R4_F1,personal_status_sex,1
+German Credit,R4_F1,other_debtors,1
+German Credit,R4_F1,property,1
+German Credit,R4_F1,other_installment_plans,1
+German Credit,R4_F1,housing,1
+German Credit,R4_F1,job,0
+German Credit,R4_F1,telephone,1
+German Credit,R4_F1,foreign_worker,1
+German Credit,R4_F1,duration,1
+German Credit,R4_F1,amount,1
+German Credit,R4_F1,installment_rate,0
+German Credit,R4_F1,present_residence,0
+German Credit,R4_F1,age,1
+German Credit,R4_F1,number_credits,0
+German Credit,R4_F1,people_liable,0
+German Credit,R4_F2,status,1
+German Credit,R4_F2,credit_history,1
+German Credit,R4_F2,purpose,1
+German Credit,R4_F2,savings,1
+German Credit,R4_F2,employment_duration,1
+German Credit,R4_F2,personal_status_sex,1
+German Credit,R4_F2,other_debtors,1
+German Credit,R4_F2,property,1
+German Credit,R4_F2,other_installment_plans,1
+German Credit,R4_F2,housing,1
+German Credit,R4_F2,job,0
+German Credit,R4_F2,telephone,0
+German Credit,R4_F2,foreign_worker,1
+German Credit,R4_F2,duration,1
+German Credit,R4_F2,amount,1
+German Credit,R4_F2,installment_rate,1
+German Credit,R4_F2,present_residence,0
+German Credit,R4_F2,age,1
+German Credit,R4_F2,number_credits,0
+German Credit,R4_F2,people_liable,0
+German Credit,R4_F3,status,1
+German Credit,R4_F3,credit_history,1
+German Credit,R4_F3,purpose,1
+German Credit,R4_F3,savings,1
+German Credit,R4_F3,employment_duration,1
+German Credit,R4_F3,personal_status_sex,1
+German Credit,R4_F3,other_debtors,1
+German Credit,R4_F3,property,1
+German Credit,R4_F3,other_installment_plans,1
+German Credit,R4_F3,housing,1
+German Credit,R4_F3,job,0
+German Credit,R4_F3,telephone,0
+German Credit,R4_F3,foreign_worker,1
+German Credit,R4_F3,duration,1
+German Credit,R4_F3,amount,1
+German Credit,R4_F3,installment_rate,0
+German Credit,R4_F3,present_residence,0
+German Credit,R4_F3,age,1
+German Credit,R4_F3,number_credits,0
+German Credit,R4_F3,people_liable,1
+German Credit,R4_F4,status,1
+German Credit,R4_F4,credit_history,1
+German Credit,R4_F4,purpose,1
+German Credit,R4_F4,savings,1
+German Credit,R4_F4,employment_duration,1
+German Credit,R4_F4,personal_status_sex,1
+German Credit,R4_F4,other_debtors,1
+German Credit,R4_F4,property,1
+German Credit,R4_F4,other_installment_plans,1
+German Credit,R4_F4,housing,1
+German Credit,R4_F4,job,0
+German Credit,R4_F4,telephone,0
+German Credit,R4_F4,foreign_worker,1
+German Credit,R4_F4,duration,1
+German Credit,R4_F4,amount,1
+German Credit,R4_F4,installment_rate,1
+German Credit,R4_F4,present_residence,0
+German Credit,R4_F4,age,1
+German Credit,R4_F4,number_credits,0
+German Credit,R4_F4,people_liable,0
+German Credit,R4_F5,status,1
+German Credit,R4_F5,credit_history,1
+German Credit,R4_F5,purpose,1
+German Credit,R4_F5,savings,1
+German Credit,R4_F5,employment_duration,1
+German Credit,R4_F5,personal_status_sex,1
+German Credit,R4_F5,other_debtors,1
+German Credit,R4_F5,property,1
+German Credit,R4_F5,other_installment_plans,1
+German Credit,R4_F5,housing,1
+German Credit,R4_F5,job,0
+German Credit,R4_F5,telephone,0
+German Credit,R4_F5,foreign_worker,1
+German Credit,R4_F5,duration,1
+German Credit,R4_F5,amount,1
+German Credit,R4_F5,installment_rate,1
+German Credit,R4_F5,present_residence,0
+German Credit,R4_F5,age,1
+German Credit,R4_F5,number_credits,0
+German Credit,R4_F5,people_liable,0
+German Credit,R5_F1,status,1
+German Credit,R5_F1,credit_history,1
+German Credit,R5_F1,purpose,1
+German Credit,R5_F1,savings,1
+German Credit,R5_F1,employment_duration,1
+German Credit,R5_F1,personal_status_sex,1
+German Credit,R5_F1,other_debtors,1
+German Credit,R5_F1,property,1
+German Credit,R5_F1,other_installment_plans,1
+German Credit,R5_F1,housing,1
+German Credit,R5_F1,job,0
+German Credit,R5_F1,telephone,0
+German Credit,R5_F1,foreign_worker,1
+German Credit,R5_F1,duration,1
+German Credit,R5_F1,amount,1
+German Credit,R5_F1,installment_rate,1
+German Credit,R5_F1,present_residence,0
+German Credit,R5_F1,age,1
+German Credit,R5_F1,number_credits,0
+German Credit,R5_F1,people_liable,0
+German Credit,R5_F2,status,1
+German Credit,R5_F2,credit_history,1
+German Credit,R5_F2,purpose,1
+German Credit,R5_F2,savings,1
+German Credit,R5_F2,employment_duration,1
+German Credit,R5_F2,personal_status_sex,1
+German Credit,R5_F2,other_debtors,1
+German Credit,R5_F2,property,1
+German Credit,R5_F2,other_installment_plans,1
+German Credit,R5_F2,housing,1
+German Credit,R5_F2,job,0
+German Credit,R5_F2,telephone,0
+German Credit,R5_F2,foreign_worker,1
+German Credit,R5_F2,duration,1
+German Credit,R5_F2,amount,1
+German Credit,R5_F2,installment_rate,1
+German Credit,R5_F2,present_residence,0
+German Credit,R5_F2,age,1
+German Credit,R5_F2,number_credits,0
+German Credit,R5_F2,people_liable,0
+German Credit,R5_F3,status,1
+German Credit,R5_F3,credit_history,1
+German Credit,R5_F3,purpose,1
+German Credit,R5_F3,savings,1
+German Credit,R5_F3,employment_duration,1
+German Credit,R5_F3,personal_status_sex,1
+German Credit,R5_F3,other_debtors,0
+German Credit,R5_F3,property,1
+German Credit,R5_F3,other_installment_plans,1
+German Credit,R5_F3,housing,1
+German Credit,R5_F3,job,0
+German Credit,R5_F3,telephone,1
+German Credit,R5_F3,foreign_worker,1
+German Credit,R5_F3,duration,1
+German Credit,R5_F3,amount,1
+German Credit,R5_F3,installment_rate,1
+German Credit,R5_F3,present_residence,0
+German Credit,R5_F3,age,1
+German Credit,R5_F3,number_credits,0
+German Credit,R5_F3,people_liable,0
+German Credit,R5_F4,status,1
+German Credit,R5_F4,credit_history,1
+German Credit,R5_F4,purpose,1
+German Credit,R5_F4,savings,1
+German Credit,R5_F4,employment_duration,1
+German Credit,R5_F4,personal_status_sex,1
+German Credit,R5_F4,other_debtors,1
+German Credit,R5_F4,property,1
+German Credit,R5_F4,other_installment_plans,1
+German Credit,R5_F4,housing,1
+German Credit,R5_F4,job,0
+German Credit,R5_F4,telephone,1
+German Credit,R5_F4,foreign_worker,1
+German Credit,R5_F4,duration,1
+German Credit,R5_F4,amount,1
+German Credit,R5_F4,installment_rate,1
+German Credit,R5_F4,present_residence,0
+German Credit,R5_F4,age,0
+German Credit,R5_F4,number_credits,0
+German Credit,R5_F4,people_liable,0
+German Credit,R5_F5,status,1
+German Credit,R5_F5,credit_history,1
+German Credit,R5_F5,purpose,1
+German Credit,R5_F5,savings,1
+German Credit,R5_F5,employment_duration,1
+German Credit,R5_F5,personal_status_sex,1
+German Credit,R5_F5,other_debtors,1
+German Credit,R5_F5,property,1
+German Credit,R5_F5,other_installment_plans,1
+German Credit,R5_F5,housing,1
+German Credit,R5_F5,job,0
+German Credit,R5_F5,telephone,0
+German Credit,R5_F5,foreign_worker,1
+German Credit,R5_F5,duration,1
+German Credit,R5_F5,amount,1
+German Credit,R5_F5,installment_rate,1
+German Credit,R5_F5,present_residence,0
+German Credit,R5_F5,age,0
+German Credit,R5_F5,number_credits,1
+German Credit,R5_F5,people_liable,0
+Australian Credit Approval,R1_F1,a1,0
+Australian Credit Approval,R1_F1,a4,1
+Australian Credit Approval,R1_F1,a5,1
+Australian Credit Approval,R1_F1,a6,1
+Australian Credit Approval,R1_F1,a8,1
+Australian Credit Approval,R1_F1,a9,1
+Australian Credit Approval,R1_F1,a11,1
+Australian Credit Approval,R1_F1,a12,0
+Australian Credit Approval,R1_F1,a2,1
+Australian Credit Approval,R1_F1,a3,1
+Australian Credit Approval,R1_F1,a7,1
+Australian Credit Approval,R1_F1,a10,1
+Australian Credit Approval,R1_F1,a13,0
+Australian Credit Approval,R1_F1,a14,1
+Australian Credit Approval,R1_F2,a1,0
+Australian Credit Approval,R1_F2,a4,1
+Australian Credit Approval,R1_F2,a5,1
+Australian Credit Approval,R1_F2,a6,1
+Australian Credit Approval,R1_F2,a8,1
+Australian Credit Approval,R1_F2,a9,1
+Australian Credit Approval,R1_F2,a11,0
+Australian Credit Approval,R1_F2,a12,1
+Australian Credit Approval,R1_F2,a2,1
+Australian Credit Approval,R1_F2,a3,1
+Australian Credit Approval,R1_F2,a7,1
+Australian Credit Approval,R1_F2,a10,1
+Australian Credit Approval,R1_F2,a13,0
+Australian Credit Approval,R1_F2,a14,1
+Australian Credit Approval,R1_F3,a1,0
+Australian Credit Approval,R1_F3,a4,1
+Australian Credit Approval,R1_F3,a5,1
+Australian Credit Approval,R1_F3,a6,1
+Australian Credit Approval,R1_F3,a8,1
+Australian Credit Approval,R1_F3,a9,1
+Australian Credit Approval,R1_F3,a11,0
+Australian Credit Approval,R1_F3,a12,1
+Australian Credit Approval,R1_F3,a2,1
+Australian Credit Approval,R1_F3,a3,1
+Australian Credit Approval,R1_F3,a7,1
+Australian Credit Approval,R1_F3,a10,1
+Australian Credit Approval,R1_F3,a13,0
+Australian Credit Approval,R1_F3,a14,1
+Australian Credit Approval,R1_F4,a1,0
+Australian Credit Approval,R1_F4,a4,1
+Australian Credit Approval,R1_F4,a5,1
+Australian Credit Approval,R1_F4,a6,1
+Australian Credit Approval,R1_F4,a8,1
+Australian Credit Approval,R1_F4,a9,1
+Australian Credit Approval,R1_F4,a11,0
+Australian Credit Approval,R1_F4,a12,1
+Australian Credit Approval,R1_F4,a2,1
+Australian Credit Approval,R1_F4,a3,1
+Australian Credit Approval,R1_F4,a7,1
+Australian Credit Approval,R1_F4,a10,1
+Australian Credit Approval,R1_F4,a13,0
+Australian Credit Approval,R1_F4,a14,1
+Australian Credit Approval,R1_F5,a1,0
+Australian Credit Approval,R1_F5,a4,1
+Australian Credit Approval,R1_F5,a5,1
+Australian Credit Approval,R1_F5,a6,1
+Australian Credit Approval,R1_F5,a8,1
+Australian Credit Approval,R1_F5,a9,1
+Australian Credit Approval,R1_F5,a11,0
+Australian Credit Approval,R1_F5,a12,1
+Australian Credit Approval,R1_F5,a2,1
+Australian Credit Approval,R1_F5,a3,1
+Australian Credit Approval,R1_F5,a7,1
+Australian Credit Approval,R1_F5,a10,1
+Australian Credit Approval,R1_F5,a13,0
+Australian Credit Approval,R1_F5,a14,1
+Australian Credit Approval,R2_F1,a1,0
+Australian Credit Approval,R2_F1,a4,1
+Australian Credit Approval,R2_F1,a5,1
+Australian Credit Approval,R2_F1,a6,1
+Australian Credit Approval,R2_F1,a8,1
+Australian Credit Approval,R2_F1,a9,1
+Australian Credit Approval,R2_F1,a11,0
+Australian Credit Approval,R2_F1,a12,1
+Australian Credit Approval,R2_F1,a2,1
+Australian Credit Approval,R2_F1,a3,1
+Australian Credit Approval,R2_F1,a7,1
+Australian Credit Approval,R2_F1,a10,1
+Australian Credit Approval,R2_F1,a13,0
+Australian Credit Approval,R2_F1,a14,1
+Australian Credit Approval,R2_F2,a1,0
+Australian Credit Approval,R2_F2,a4,1
+Australian Credit Approval,R2_F2,a5,1
+Australian Credit Approval,R2_F2,a6,1
+Australian Credit Approval,R2_F2,a8,1
+Australian Credit Approval,R2_F2,a9,1
+Australian Credit Approval,R2_F2,a11,0
+Australian Credit Approval,R2_F2,a12,1
+Australian Credit Approval,R2_F2,a2,1
+Australian Credit Approval,R2_F2,a3,1
+Australian Credit Approval,R2_F2,a7,1
+Australian Credit Approval,R2_F2,a10,1
+Australian Credit Approval,R2_F2,a13,0
+Australian Credit Approval,R2_F2,a14,1
+Australian Credit Approval,R2_F3,a1,0
+Australian Credit Approval,R2_F3,a4,1
+Australian Credit Approval,R2_F3,a5,1
+Australian Credit Approval,R2_F3,a6,1
+Australian Credit Approval,R2_F3,a8,1
+Australian Credit Approval,R2_F3,a9,1
+Australian Credit Approval,R2_F3,a11,0
+Australian Credit Approval,R2_F3,a12,1
+Australian Credit Approval,R2_F3,a2,1
+Australian Credit Approval,R2_F3,a3,1
+Australian Credit Approval,R2_F3,a7,1
+Australian Credit Approval,R2_F3,a10,1
+Australian Credit Approval,R2_F3,a13,0
+Australian Credit Approval,R2_F3,a14,1
+Australian Credit Approval,R2_F4,a1,0
+Australian Credit Approval,R2_F4,a4,1
+Australian Credit Approval,R2_F4,a5,1
+Australian Credit Approval,R2_F4,a6,1
+Australian Credit Approval,R2_F4,a8,1
+Australian Credit Approval,R2_F4,a9,1
+Australian Credit Approval,R2_F4,a11,0
+Australian Credit Approval,R2_F4,a12,1
+Australian Credit Approval,R2_F4,a2,1
+Australian Credit Approval,R2_F4,a3,1
+Australian Credit Approval,R2_F4,a7,1
+Australian Credit Approval,R2_F4,a10,1
+Australian Credit Approval,R2_F4,a13,0
+Australian Credit Approval,R2_F4,a14,1
+Australian Credit Approval,R2_F5,a1,0
+Australian Credit Approval,R2_F5,a4,1
+Australian Credit Approval,R2_F5,a5,1
+Australian Credit Approval,R2_F5,a6,1
+Australian Credit Approval,R2_F5,a8,1
+Australian Credit Approval,R2_F5,a9,1
+Australian Credit Approval,R2_F5,a11,0
+Australian Credit Approval,R2_F5,a12,0
+Australian Credit Approval,R2_F5,a2,1
+Australian Credit Approval,R2_F5,a3,1
+Australian Credit Approval,R2_F5,a7,1
+Australian Credit Approval,R2_F5,a10,1
+Australian Credit Approval,R2_F5,a13,1
+Australian Credit Approval,R2_F5,a14,1
+Australian Credit Approval,R3_F1,a1,0
+Australian Credit Approval,R3_F1,a4,1
+Australian Credit Approval,R3_F1,a5,1
+Australian Credit Approval,R3_F1,a6,1
+Australian Credit Approval,R3_F1,a8,1
+Australian Credit Approval,R3_F1,a9,1
+Australian Credit Approval,R3_F1,a11,0
+Australian Credit Approval,R3_F1,a12,1
+Australian Credit Approval,R3_F1,a2,1
+Australian Credit Approval,R3_F1,a3,1
+Australian Credit Approval,R3_F1,a7,1
+Australian Credit Approval,R3_F1,a10,1
+Australian Credit Approval,R3_F1,a13,0
+Australian Credit Approval,R3_F1,a14,1
+Australian Credit Approval,R3_F2,a1,0
+Australian Credit Approval,R3_F2,a4,1
+Australian Credit Approval,R3_F2,a5,1
+Australian Credit Approval,R3_F2,a6,1
+Australian Credit Approval,R3_F2,a8,1
+Australian Credit Approval,R3_F2,a9,1
+Australian Credit Approval,R3_F2,a11,0
+Australian Credit Approval,R3_F2,a12,1
+Australian Credit Approval,R3_F2,a2,1
+Australian Credit Approval,R3_F2,a3,1
+Australian Credit Approval,R3_F2,a7,1
+Australian Credit Approval,R3_F2,a10,1
+Australian Credit Approval,R3_F2,a13,0
+Australian Credit Approval,R3_F2,a14,1
+Australian Credit Approval,R3_F3,a1,0
+Australian Credit Approval,R3_F3,a4,1
+Australian Credit Approval,R3_F3,a5,1
+Australian Credit Approval,R3_F3,a6,1
+Australian Credit Approval,R3_F3,a8,1
+Australian Credit Approval,R3_F3,a9,1
+Australian Credit Approval,R3_F3,a11,0
+Australian Credit Approval,R3_F3,a12,1
+Australian Credit Approval,R3_F3,a2,1
+Australian Credit Approval,R3_F3,a3,1
+Australian Credit Approval,R3_F3,a7,1
+Australian Credit Approval,R3_F3,a10,1
+Australian Credit Approval,R3_F3,a13,0
+Australian Credit Approval,R3_F3,a14,1
+Australian Credit Approval,R3_F4,a1,0
+Australian Credit Approval,R3_F4,a4,1
+Australian Credit Approval,R3_F4,a5,1
+Australian Credit Approval,R3_F4,a6,1
+Australian Credit Approval,R3_F4,a8,1
+Australian Credit Approval,R3_F4,a9,1
+Australian Credit Approval,R3_F4,a11,0
+Australian Credit Approval,R3_F4,a12,1
+Australian Credit Approval,R3_F4,a2,1
+Australian Credit Approval,R3_F4,a3,1
+Australian Credit Approval,R3_F4,a7,1
+Australian Credit Approval,R3_F4,a10,1
+Australian Credit Approval,R3_F4,a13,0
+Australian Credit Approval,R3_F4,a14,1
+Australian Credit Approval,R3_F5,a1,0
+Australian Credit Approval,R3_F5,a4,1
+Australian Credit Approval,R3_F5,a5,1
+Australian Credit Approval,R3_F5,a6,1
+Australian Credit Approval,R3_F5,a8,1
+Australian Credit Approval,R3_F5,a9,1
+Australian Credit Approval,R3_F5,a11,0
+Australian Credit Approval,R3_F5,a12,1
+Australian Credit Approval,R3_F5,a2,1
+Australian Credit Approval,R3_F5,a3,1
+Australian Credit Approval,R3_F5,a7,1
+Australian Credit Approval,R3_F5,a10,1
+Australian Credit Approval,R3_F5,a13,0
+Australian Credit Approval,R3_F5,a14,1
+Australian Credit Approval,R4_F1,a1,0
+Australian Credit Approval,R4_F1,a4,1
+Australian Credit Approval,R4_F1,a5,1
+Australian Credit Approval,R4_F1,a6,1
+Australian Credit Approval,R4_F1,a8,1
+Australian Credit Approval,R4_F1,a9,1
+Australian Credit Approval,R4_F1,a11,1
+Australian Credit Approval,R4_F1,a12,0
+Australian Credit Approval,R4_F1,a2,1
+Australian Credit Approval,R4_F1,a3,1
+Australian Credit Approval,R4_F1,a7,1
+Australian Credit Approval,R4_F1,a10,1
+Australian Credit Approval,R4_F1,a13,0
+Australian Credit Approval,R4_F1,a14,1
+Australian Credit Approval,R4_F2,a1,0
+Australian Credit Approval,R4_F2,a4,1
+Australian Credit Approval,R4_F2,a5,1
+Australian Credit Approval,R4_F2,a6,1
+Australian Credit Approval,R4_F2,a8,1
+Australian Credit Approval,R4_F2,a9,1
+Australian Credit Approval,R4_F2,a11,0
+Australian Credit Approval,R4_F2,a12,1
+Australian Credit Approval,R4_F2,a2,1
+Australian Credit Approval,R4_F2,a3,1
+Australian Credit Approval,R4_F2,a7,1
+Australian Credit Approval,R4_F2,a10,1
+Australian Credit Approval,R4_F2,a13,0
+Australian Credit Approval,R4_F2,a14,1
+Australian Credit Approval,R4_F3,a1,0
+Australian Credit Approval,R4_F3,a4,1
+Australian Credit Approval,R4_F3,a5,1
+Australian Credit Approval,R4_F3,a6,1
+Australian Credit Approval,R4_F3,a8,1
+Australian Credit Approval,R4_F3,a9,1
+Australian Credit Approval,R4_F3,a11,0
+Australian Credit Approval,R4_F3,a12,1
+Australian Credit Approval,R4_F3,a2,1
+Australian Credit Approval,R4_F3,a3,1
+Australian Credit Approval,R4_F3,a7,1
+Australian Credit Approval,R4_F3,a10,1
+Australian Credit Approval,R4_F3,a13,0
+Australian Credit Approval,R4_F3,a14,1
+Australian Credit Approval,R4_F4,a1,0
+Australian Credit Approval,R4_F4,a4,1
+Australian Credit Approval,R4_F4,a5,1
+Australian Credit Approval,R4_F4,a6,1
+Australian Credit Approval,R4_F4,a8,1
+Australian Credit Approval,R4_F4,a9,1
+Australian Credit Approval,R4_F4,a11,0
+Australian Credit Approval,R4_F4,a12,1
+Australian Credit Approval,R4_F4,a2,1
+Australian Credit Approval,R4_F4,a3,1
+Australian Credit Approval,R4_F4,a7,1
+Australian Credit Approval,R4_F4,a10,1
+Australian Credit Approval,R4_F4,a13,0
+Australian Credit Approval,R4_F4,a14,1
+Australian Credit Approval,R4_F5,a1,0
+Australian Credit Approval,R4_F5,a4,1
+Australian Credit Approval,R4_F5,a5,1
+Australian Credit Approval,R4_F5,a6,1
+Australian Credit Approval,R4_F5,a8,1
+Australian Credit Approval,R4_F5,a9,1
+Australian Credit Approval,R4_F5,a11,0
+Australian Credit Approval,R4_F5,a12,1
+Australian Credit Approval,R4_F5,a2,1
+Australian Credit Approval,R4_F5,a3,1
+Australian Credit Approval,R4_F5,a7,1
+Australian Credit Approval,R4_F5,a10,1
+Australian Credit Approval,R4_F5,a13,0
+Australian Credit Approval,R4_F5,a14,1
+Australian Credit Approval,R5_F1,a1,0
+Australian Credit Approval,R5_F1,a4,1
+Australian Credit Approval,R5_F1,a5,1
+Australian Credit Approval,R5_F1,a6,1
+Australian Credit Approval,R5_F1,a8,1
+Australian Credit Approval,R5_F1,a9,1
+Australian Credit Approval,R5_F1,a11,0
+Australian Credit Approval,R5_F1,a12,1
+Australian Credit Approval,R5_F1,a2,1
+Australian Credit Approval,R5_F1,a3,1
+Australian Credit Approval,R5_F1,a7,1
+Australian Credit Approval,R5_F1,a10,1
+Australian Credit Approval,R5_F1,a13,0
+Australian Credit Approval,R5_F1,a14,1
+Australian Credit Approval,R5_F2,a1,0
+Australian Credit Approval,R5_F2,a4,1
+Australian Credit Approval,R5_F2,a5,1
+Australian Credit Approval,R5_F2,a6,1
+Australian Credit Approval,R5_F2,a8,1
+Australian Credit Approval,R5_F2,a9,1
+Australian Credit Approval,R5_F2,a11,0
+Australian Credit Approval,R5_F2,a12,1
+Australian Credit Approval,R5_F2,a2,1
+Australian Credit Approval,R5_F2,a3,1
+Australian Credit Approval,R5_F2,a7,1
+Australian Credit Approval,R5_F2,a10,1
+Australian Credit Approval,R5_F2,a13,0
+Australian Credit Approval,R5_F2,a14,1
+Australian Credit Approval,R5_F3,a1,0
+Australian Credit Approval,R5_F3,a4,1
+Australian Credit Approval,R5_F3,a5,1
+Australian Credit Approval,R5_F3,a6,1
+Australian Credit Approval,R5_F3,a8,1
+Australian Credit Approval,R5_F3,a9,1
+Australian Credit Approval,R5_F3,a11,0
+Australian Credit Approval,R5_F3,a12,1
+Australian Credit Approval,R5_F3,a2,1
+Australian Credit Approval,R5_F3,a3,1
+Australian Credit Approval,R5_F3,a7,1
+Australian Credit Approval,R5_F3,a10,1
+Australian Credit Approval,R5_F3,a13,0
+Australian Credit Approval,R5_F3,a14,1
+Australian Credit Approval,R5_F4,a1,0
+Australian Credit Approval,R5_F4,a4,1
+Australian Credit Approval,R5_F4,a5,1
+Australian Credit Approval,R5_F4,a6,1
+Australian Credit Approval,R5_F4,a8,1
+Australian Credit Approval,R5_F4,a9,1
+Australian Credit Approval,R5_F4,a11,0
+Australian Credit Approval,R5_F4,a12,1
+Australian Credit Approval,R5_F4,a2,1
+Australian Credit Approval,R5_F4,a3,1
+Australian Credit Approval,R5_F4,a7,1
+Australian Credit Approval,R5_F4,a10,1
+Australian Credit Approval,R5_F4,a13,0
+Australian Credit Approval,R5_F4,a14,1
+Australian Credit Approval,R5_F5,a1,0
+Australian Credit Approval,R5_F5,a4,1
+Australian Credit Approval,R5_F5,a5,1
+Australian Credit Approval,R5_F5,a6,1
+Australian Credit Approval,R5_F5,a8,1
+Australian Credit Approval,R5_F5,a9,1
+Australian Credit Approval,R5_F5,a11,0
+Australian Credit Approval,R5_F5,a12,1
+Australian Credit Approval,R5_F5,a2,1
+Australian Credit Approval,R5_F5,a3,1
+Australian Credit Approval,R5_F5,a7,1
+Australian Credit Approval,R5_F5,a10,1
+Australian Credit Approval,R5_F5,a13,0
+Australian Credit Approval,R5_F5,a14,1
+Taiwan Credit Card Default,R1_F1,sex,1
+Taiwan Credit Card Default,R1_F1,education,1
+Taiwan Credit Card Default,R1_F1,marriage,1
+Taiwan Credit Card Default,R1_F1,pay_0,1
+Taiwan Credit Card Default,R1_F1,pay_2,1
+Taiwan Credit Card Default,R1_F1,pay_3,1
+Taiwan Credit Card Default,R1_F1,pay_4,1
+Taiwan Credit Card Default,R1_F1,pay_5,1
+Taiwan Credit Card Default,R1_F1,pay_6,1
+Taiwan Credit Card Default,R1_F1,limit_bal,1
+Taiwan Credit Card Default,R1_F1,age,1
+Taiwan Credit Card Default,R1_F1,bill_amt1,0
+Taiwan Credit Card Default,R1_F1,bill_amt2,1
+Taiwan Credit Card Default,R1_F1,bill_amt3,0
+Taiwan Credit Card Default,R1_F1,bill_amt4,0
+Taiwan Credit Card Default,R1_F1,bill_amt5,0
+Taiwan Credit Card Default,R1_F1,bill_amt6,0
+Taiwan Credit Card Default,R1_F1,pay_amt1,1
+Taiwan Credit Card Default,R1_F1,pay_amt2,1
+Taiwan Credit Card Default,R1_F1,pay_amt3,1
+Taiwan Credit Card Default,R1_F1,pay_amt4,1
+Taiwan Credit Card Default,R1_F1,pay_amt5,1
+Taiwan Credit Card Default,R1_F1,pay_amt6,1
+Taiwan Credit Card Default,R1_F2,sex,1
+Taiwan Credit Card Default,R1_F2,education,1
+Taiwan Credit Card Default,R1_F2,marriage,1
+Taiwan Credit Card Default,R1_F2,pay_0,1
+Taiwan Credit Card Default,R1_F2,pay_2,1
+Taiwan Credit Card Default,R1_F2,pay_3,1
+Taiwan Credit Card Default,R1_F2,pay_4,1
+Taiwan Credit Card Default,R1_F2,pay_5,1
+Taiwan Credit Card Default,R1_F2,pay_6,1
+Taiwan Credit Card Default,R1_F2,limit_bal,1
+Taiwan Credit Card Default,R1_F2,age,1
+Taiwan Credit Card Default,R1_F2,bill_amt1,1
+Taiwan Credit Card Default,R1_F2,bill_amt2,0
+Taiwan Credit Card Default,R1_F2,bill_amt3,0
+Taiwan Credit Card Default,R1_F2,bill_amt4,0
+Taiwan Credit Card Default,R1_F2,bill_amt5,0
+Taiwan Credit Card Default,R1_F2,bill_amt6,0
+Taiwan Credit Card Default,R1_F2,pay_amt1,1
+Taiwan Credit Card Default,R1_F2,pay_amt2,1
+Taiwan Credit Card Default,R1_F2,pay_amt3,1
+Taiwan Credit Card Default,R1_F2,pay_amt4,1
+Taiwan Credit Card Default,R1_F2,pay_amt5,1
+Taiwan Credit Card Default,R1_F2,pay_amt6,1
+Taiwan Credit Card Default,R1_F3,sex,1
+Taiwan Credit Card Default,R1_F3,education,1
+Taiwan Credit Card Default,R1_F3,marriage,1
+Taiwan Credit Card Default,R1_F3,pay_0,1
+Taiwan Credit Card Default,R1_F3,pay_2,1
+Taiwan Credit Card Default,R1_F3,pay_3,1
+Taiwan Credit Card Default,R1_F3,pay_4,1
+Taiwan Credit Card Default,R1_F3,pay_5,1
+Taiwan Credit Card Default,R1_F3,pay_6,1
+Taiwan Credit Card Default,R1_F3,limit_bal,1
+Taiwan Credit Card Default,R1_F3,age,1
+Taiwan Credit Card Default,R1_F3,bill_amt1,1
+Taiwan Credit Card Default,R1_F3,bill_amt2,0
+Taiwan Credit Card Default,R1_F3,bill_amt3,0
+Taiwan Credit Card Default,R1_F3,bill_amt4,0
+Taiwan Credit Card Default,R1_F3,bill_amt5,0
+Taiwan Credit Card Default,R1_F3,bill_amt6,0
+Taiwan Credit Card Default,R1_F3,pay_amt1,1
+Taiwan Credit Card Default,R1_F3,pay_amt2,1
+Taiwan Credit Card Default,R1_F3,pay_amt3,1
+Taiwan Credit Card Default,R1_F3,pay_amt4,1
+Taiwan Credit Card Default,R1_F3,pay_amt5,1
+Taiwan Credit Card Default,R1_F3,pay_amt6,1
+Taiwan Credit Card Default,R1_F4,sex,1
+Taiwan Credit Card Default,R1_F4,education,1
+Taiwan Credit Card Default,R1_F4,marriage,1
+Taiwan Credit Card Default,R1_F4,pay_0,1
+Taiwan Credit Card Default,R1_F4,pay_2,1
+Taiwan Credit Card Default,R1_F4,pay_3,1
+Taiwan Credit Card Default,R1_F4,pay_4,1
+Taiwan Credit Card Default,R1_F4,pay_5,1
+Taiwan Credit Card Default,R1_F4,pay_6,1
+Taiwan Credit Card Default,R1_F4,limit_bal,1
+Taiwan Credit Card Default,R1_F4,age,1
+Taiwan Credit Card Default,R1_F4,bill_amt1,0
+Taiwan Credit Card Default,R1_F4,bill_amt2,1
+Taiwan Credit Card Default,R1_F4,bill_amt3,0
+Taiwan Credit Card Default,R1_F4,bill_amt4,0
+Taiwan Credit Card Default,R1_F4,bill_amt5,0
+Taiwan Credit Card Default,R1_F4,bill_amt6,0
+Taiwan Credit Card Default,R1_F4,pay_amt1,1
+Taiwan Credit Card Default,R1_F4,pay_amt2,1
+Taiwan Credit Card Default,R1_F4,pay_amt3,1
+Taiwan Credit Card Default,R1_F4,pay_amt4,1
+Taiwan Credit Card Default,R1_F4,pay_amt5,1
+Taiwan Credit Card Default,R1_F4,pay_amt6,1
+Taiwan Credit Card Default,R1_F5,sex,1
+Taiwan Credit Card Default,R1_F5,education,1
+Taiwan Credit Card Default,R1_F5,marriage,1
+Taiwan Credit Card Default,R1_F5,pay_0,1
+Taiwan Credit Card Default,R1_F5,pay_2,1
+Taiwan Credit Card Default,R1_F5,pay_3,1
+Taiwan Credit Card Default,R1_F5,pay_4,1
+Taiwan Credit Card Default,R1_F5,pay_5,1
+Taiwan Credit Card Default,R1_F5,pay_6,1
+Taiwan Credit Card Default,R1_F5,limit_bal,1
+Taiwan Credit Card Default,R1_F5,age,1
+Taiwan Credit Card Default,R1_F5,bill_amt1,1
+Taiwan Credit Card Default,R1_F5,bill_amt2,0
+Taiwan Credit Card Default,R1_F5,bill_amt3,0
+Taiwan Credit Card Default,R1_F5,bill_amt4,0
+Taiwan Credit Card Default,R1_F5,bill_amt5,0
+Taiwan Credit Card Default,R1_F5,bill_amt6,0
+Taiwan Credit Card Default,R1_F5,pay_amt1,1
+Taiwan Credit Card Default,R1_F5,pay_amt2,1
+Taiwan Credit Card Default,R1_F5,pay_amt3,1
+Taiwan Credit Card Default,R1_F5,pay_amt4,1
+Taiwan Credit Card Default,R1_F5,pay_amt5,1
+Taiwan Credit Card Default,R1_F5,pay_amt6,1
+Taiwan Credit Card Default,R2_F1,sex,1
+Taiwan Credit Card Default,R2_F1,education,1
+Taiwan Credit Card Default,R2_F1,marriage,1
+Taiwan Credit Card Default,R2_F1,pay_0,1
+Taiwan Credit Card Default,R2_F1,pay_2,1
+Taiwan Credit Card Default,R2_F1,pay_3,1
+Taiwan Credit Card Default,R2_F1,pay_4,1
+Taiwan Credit Card Default,R2_F1,pay_5,1
+Taiwan Credit Card Default,R2_F1,pay_6,1
+Taiwan Credit Card Default,R2_F1,limit_bal,1
+Taiwan Credit Card Default,R2_F1,age,1
+Taiwan Credit Card Default,R2_F1,bill_amt1,1
+Taiwan Credit Card Default,R2_F1,bill_amt2,0
+Taiwan Credit Card Default,R2_F1,bill_amt3,0
+Taiwan Credit Card Default,R2_F1,bill_amt4,0
+Taiwan Credit Card Default,R2_F1,bill_amt5,0
+Taiwan Credit Card Default,R2_F1,bill_amt6,0
+Taiwan Credit Card Default,R2_F1,pay_amt1,1
+Taiwan Credit Card Default,R2_F1,pay_amt2,1
+Taiwan Credit Card Default,R2_F1,pay_amt3,1
+Taiwan Credit Card Default,R2_F1,pay_amt4,1
+Taiwan Credit Card Default,R2_F1,pay_amt5,1
+Taiwan Credit Card Default,R2_F1,pay_amt6,1
+Taiwan Credit Card Default,R2_F2,sex,1
+Taiwan Credit Card Default,R2_F2,education,1
+Taiwan Credit Card Default,R2_F2,marriage,1
+Taiwan Credit Card Default,R2_F2,pay_0,1
+Taiwan Credit Card Default,R2_F2,pay_2,1
+Taiwan Credit Card Default,R2_F2,pay_3,1
+Taiwan Credit Card Default,R2_F2,pay_4,1
+Taiwan Credit Card Default,R2_F2,pay_5,1
+Taiwan Credit Card Default,R2_F2,pay_6,1
+Taiwan Credit Card Default,R2_F2,limit_bal,1
+Taiwan Credit Card Default,R2_F2,age,1
+Taiwan Credit Card Default,R2_F2,bill_amt1,1
+Taiwan Credit Card Default,R2_F2,bill_amt2,0
+Taiwan Credit Card Default,R2_F2,bill_amt3,0
+Taiwan Credit Card Default,R2_F2,bill_amt4,0
+Taiwan Credit Card Default,R2_F2,bill_amt5,0
+Taiwan Credit Card Default,R2_F2,bill_amt6,0
+Taiwan Credit Card Default,R2_F2,pay_amt1,1
+Taiwan Credit Card Default,R2_F2,pay_amt2,1
+Taiwan Credit Card Default,R2_F2,pay_amt3,1
+Taiwan Credit Card Default,R2_F2,pay_amt4,1
+Taiwan Credit Card Default,R2_F2,pay_amt5,1
+Taiwan Credit Card Default,R2_F2,pay_amt6,1
+Taiwan Credit Card Default,R2_F3,sex,1
+Taiwan Credit Card Default,R2_F3,education,1
+Taiwan Credit Card Default,R2_F3,marriage,1
+Taiwan Credit Card Default,R2_F3,pay_0,1
+Taiwan Credit Card Default,R2_F3,pay_2,1
+Taiwan Credit Card Default,R2_F3,pay_3,1
+Taiwan Credit Card Default,R2_F3,pay_4,1
+Taiwan Credit Card Default,R2_F3,pay_5,1
+Taiwan Credit Card Default,R2_F3,pay_6,1
+Taiwan Credit Card Default,R2_F3,limit_bal,1
+Taiwan Credit Card Default,R2_F3,age,1
+Taiwan Credit Card Default,R2_F3,bill_amt1,1
+Taiwan Credit Card Default,R2_F3,bill_amt2,0
+Taiwan Credit Card Default,R2_F3,bill_amt3,0
+Taiwan Credit Card Default,R2_F3,bill_amt4,0
+Taiwan Credit Card Default,R2_F3,bill_amt5,0
+Taiwan Credit Card Default,R2_F3,bill_amt6,0
+Taiwan Credit Card Default,R2_F3,pay_amt1,1
+Taiwan Credit Card Default,R2_F3,pay_amt2,1
+Taiwan Credit Card Default,R2_F3,pay_amt3,1
+Taiwan Credit Card Default,R2_F3,pay_amt4,1
+Taiwan Credit Card Default,R2_F3,pay_amt5,1
+Taiwan Credit Card Default,R2_F3,pay_amt6,1
+Taiwan Credit Card Default,R2_F4,sex,1
+Taiwan Credit Card Default,R2_F4,education,1
+Taiwan Credit Card Default,R2_F4,marriage,1
+Taiwan Credit Card Default,R2_F4,pay_0,1
+Taiwan Credit Card Default,R2_F4,pay_2,1
+Taiwan Credit Card Default,R2_F4,pay_3,1
+Taiwan Credit Card Default,R2_F4,pay_4,1
+Taiwan Credit Card Default,R2_F4,pay_5,1
+Taiwan Credit Card Default,R2_F4,pay_6,1
+Taiwan Credit Card Default,R2_F4,limit_bal,1
+Taiwan Credit Card Default,R2_F4,age,1
+Taiwan Credit Card Default,R2_F4,bill_amt1,0
+Taiwan Credit Card Default,R2_F4,bill_amt2,1
+Taiwan Credit Card Default,R2_F4,bill_amt3,0
+Taiwan Credit Card Default,R2_F4,bill_amt4,0
+Taiwan Credit Card Default,R2_F4,bill_amt5,0
+Taiwan Credit Card Default,R2_F4,bill_amt6,0
+Taiwan Credit Card Default,R2_F4,pay_amt1,1
+Taiwan Credit Card Default,R2_F4,pay_amt2,1
+Taiwan Credit Card Default,R2_F4,pay_amt3,1
+Taiwan Credit Card Default,R2_F4,pay_amt4,1
+Taiwan Credit Card Default,R2_F4,pay_amt5,1
+Taiwan Credit Card Default,R2_F4,pay_amt6,1
+Taiwan Credit Card Default,R2_F5,sex,1
+Taiwan Credit Card Default,R2_F5,education,1
+Taiwan Credit Card Default,R2_F5,marriage,1
+Taiwan Credit Card Default,R2_F5,pay_0,1
+Taiwan Credit Card Default,R2_F5,pay_2,1
+Taiwan Credit Card Default,R2_F5,pay_3,1
+Taiwan Credit Card Default,R2_F5,pay_4,1
+Taiwan Credit Card Default,R2_F5,pay_5,1
+Taiwan Credit Card Default,R2_F5,pay_6,1
+Taiwan Credit Card Default,R2_F5,limit_bal,1
+Taiwan Credit Card Default,R2_F5,age,1
+Taiwan Credit Card Default,R2_F5,bill_amt1,1
+Taiwan Credit Card Default,R2_F5,bill_amt2,0
+Taiwan Credit Card Default,R2_F5,bill_amt3,0
+Taiwan Credit Card Default,R2_F5,bill_amt4,0
+Taiwan Credit Card Default,R2_F5,bill_amt5,0
+Taiwan Credit Card Default,R2_F5,bill_amt6,0
+Taiwan Credit Card Default,R2_F5,pay_amt1,1
+Taiwan Credit Card Default,R2_F5,pay_amt2,1
+Taiwan Credit Card Default,R2_F5,pay_amt3,1
+Taiwan Credit Card Default,R2_F5,pay_amt4,1
+Taiwan Credit Card Default,R2_F5,pay_amt5,1
+Taiwan Credit Card Default,R2_F5,pay_amt6,1
+Taiwan Credit Card Default,R3_F1,sex,1
+Taiwan Credit Card Default,R3_F1,education,1
+Taiwan Credit Card Default,R3_F1,marriage,1
+Taiwan Credit Card Default,R3_F1,pay_0,1
+Taiwan Credit Card Default,R3_F1,pay_2,1
+Taiwan Credit Card Default,R3_F1,pay_3,1
+Taiwan Credit Card Default,R3_F1,pay_4,1
+Taiwan Credit Card Default,R3_F1,pay_5,1
+Taiwan Credit Card Default,R3_F1,pay_6,1
+Taiwan Credit Card Default,R3_F1,limit_bal,1
+Taiwan Credit Card Default,R3_F1,age,1
+Taiwan Credit Card Default,R3_F1,bill_amt1,1
+Taiwan Credit Card Default,R3_F1,bill_amt2,0
+Taiwan Credit Card Default,R3_F1,bill_amt3,0
+Taiwan Credit Card Default,R3_F1,bill_amt4,0
+Taiwan Credit Card Default,R3_F1,bill_amt5,0
+Taiwan Credit Card Default,R3_F1,bill_amt6,0
+Taiwan Credit Card Default,R3_F1,pay_amt1,1
+Taiwan Credit Card Default,R3_F1,pay_amt2,1
+Taiwan Credit Card Default,R3_F1,pay_amt3,1
+Taiwan Credit Card Default,R3_F1,pay_amt4,1
+Taiwan Credit Card Default,R3_F1,pay_amt5,1
+Taiwan Credit Card Default,R3_F1,pay_amt6,1
+Taiwan Credit Card Default,R3_F2,sex,1
+Taiwan Credit Card Default,R3_F2,education,1
+Taiwan Credit Card Default,R3_F2,marriage,1
+Taiwan Credit Card Default,R3_F2,pay_0,1
+Taiwan Credit Card Default,R3_F2,pay_2,1
+Taiwan Credit Card Default,R3_F2,pay_3,1
+Taiwan Credit Card Default,R3_F2,pay_4,1
+Taiwan Credit Card Default,R3_F2,pay_5,1
+Taiwan Credit Card Default,R3_F2,pay_6,1
+Taiwan Credit Card Default,R3_F2,limit_bal,1
+Taiwan Credit Card Default,R3_F2,age,1
+Taiwan Credit Card Default,R3_F2,bill_amt1,1
+Taiwan Credit Card Default,R3_F2,bill_amt2,0
+Taiwan Credit Card Default,R3_F2,bill_amt3,0
+Taiwan Credit Card Default,R3_F2,bill_amt4,0
+Taiwan Credit Card Default,R3_F2,bill_amt5,0
+Taiwan Credit Card Default,R3_F2,bill_amt6,0
+Taiwan Credit Card Default,R3_F2,pay_amt1,1
+Taiwan Credit Card Default,R3_F2,pay_amt2,1
+Taiwan Credit Card Default,R3_F2,pay_amt3,1
+Taiwan Credit Card Default,R3_F2,pay_amt4,1
+Taiwan Credit Card Default,R3_F2,pay_amt5,1
+Taiwan Credit Card Default,R3_F2,pay_amt6,1
+Taiwan Credit Card Default,R3_F3,sex,1
+Taiwan Credit Card Default,R3_F3,education,1
+Taiwan Credit Card Default,R3_F3,marriage,1
+Taiwan Credit Card Default,R3_F3,pay_0,1
+Taiwan Credit Card Default,R3_F3,pay_2,1
+Taiwan Credit Card Default,R3_F3,pay_3,1
+Taiwan Credit Card Default,R3_F3,pay_4,1
+Taiwan Credit Card Default,R3_F3,pay_5,1
+Taiwan Credit Card Default,R3_F3,pay_6,1
+Taiwan Credit Card Default,R3_F3,limit_bal,1
+Taiwan Credit Card Default,R3_F3,age,1
+Taiwan Credit Card Default,R3_F3,bill_amt1,0
+Taiwan Credit Card Default,R3_F3,bill_amt2,1
+Taiwan Credit Card Default,R3_F3,bill_amt3,0
+Taiwan Credit Card Default,R3_F3,bill_amt4,0
+Taiwan Credit Card Default,R3_F3,bill_amt5,0
+Taiwan Credit Card Default,R3_F3,bill_amt6,0
+Taiwan Credit Card Default,R3_F3,pay_amt1,1
+Taiwan Credit Card Default,R3_F3,pay_amt2,1
+Taiwan Credit Card Default,R3_F3,pay_amt3,1
+Taiwan Credit Card Default,R3_F3,pay_amt4,1
+Taiwan Credit Card Default,R3_F3,pay_amt5,1
+Taiwan Credit Card Default,R3_F3,pay_amt6,1
+Taiwan Credit Card Default,R3_F4,sex,1
+Taiwan Credit Card Default,R3_F4,education,1
+Taiwan Credit Card Default,R3_F4,marriage,1
+Taiwan Credit Card Default,R3_F4,pay_0,1
+Taiwan Credit Card Default,R3_F4,pay_2,1
+Taiwan Credit Card Default,R3_F4,pay_3,1
+Taiwan Credit Card Default,R3_F4,pay_4,1
+Taiwan Credit Card Default,R3_F4,pay_5,1
+Taiwan Credit Card Default,R3_F4,pay_6,1
+Taiwan Credit Card Default,R3_F4,limit_bal,1
+Taiwan Credit Card Default,R3_F4,age,0
+Taiwan Credit Card Default,R3_F4,bill_amt1,1
+Taiwan Credit Card Default,R3_F4,bill_amt2,1
+Taiwan Credit Card Default,R3_F4,bill_amt3,0
+Taiwan Credit Card Default,R3_F4,bill_amt4,0
+Taiwan Credit Card Default,R3_F4,bill_amt5,0
+Taiwan Credit Card Default,R3_F4,bill_amt6,0
+Taiwan Credit Card Default,R3_F4,pay_amt1,1
+Taiwan Credit Card Default,R3_F4,pay_amt2,1
+Taiwan Credit Card Default,R3_F4,pay_amt3,1
+Taiwan Credit Card Default,R3_F4,pay_amt4,1
+Taiwan Credit Card Default,R3_F4,pay_amt5,1
+Taiwan Credit Card Default,R3_F4,pay_amt6,1
+Taiwan Credit Card Default,R3_F5,sex,1
+Taiwan Credit Card Default,R3_F5,education,1
+Taiwan Credit Card Default,R3_F5,marriage,1
+Taiwan Credit Card Default,R3_F5,pay_0,1
+Taiwan Credit Card Default,R3_F5,pay_2,1
+Taiwan Credit Card Default,R3_F5,pay_3,1
+Taiwan Credit Card Default,R3_F5,pay_4,1
+Taiwan Credit Card Default,R3_F5,pay_5,1
+Taiwan Credit Card Default,R3_F5,pay_6,1
+Taiwan Credit Card Default,R3_F5,limit_bal,1
+Taiwan Credit Card Default,R3_F5,age,1
+Taiwan Credit Card Default,R3_F5,bill_amt1,1
+Taiwan Credit Card Default,R3_F5,bill_amt2,0
+Taiwan Credit Card Default,R3_F5,bill_amt3,0
+Taiwan Credit Card Default,R3_F5,bill_amt4,0
+Taiwan Credit Card Default,R3_F5,bill_amt5,0
+Taiwan Credit Card Default,R3_F5,bill_amt6,0
+Taiwan Credit Card Default,R3_F5,pay_amt1,1
+Taiwan Credit Card Default,R3_F5,pay_amt2,1
+Taiwan Credit Card Default,R3_F5,pay_amt3,1
+Taiwan Credit Card Default,R3_F5,pay_amt4,1
+Taiwan Credit Card Default,R3_F5,pay_amt5,1
+Taiwan Credit Card Default,R3_F5,pay_amt6,1
+Taiwan Credit Card Default,R4_F1,sex,1
+Taiwan Credit Card Default,R4_F1,education,1
+Taiwan Credit Card Default,R4_F1,marriage,1
+Taiwan Credit Card Default,R4_F1,pay_0,1
+Taiwan Credit Card Default,R4_F1,pay_2,1
+Taiwan Credit Card Default,R4_F1,pay_3,1
+Taiwan Credit Card Default,R4_F1,pay_4,1
+Taiwan Credit Card Default,R4_F1,pay_5,1
+Taiwan Credit Card Default,R4_F1,pay_6,1
+Taiwan Credit Card Default,R4_F1,limit_bal,1
+Taiwan Credit Card Default,R4_F1,age,1
+Taiwan Credit Card Default,R4_F1,bill_amt1,0
+Taiwan Credit Card Default,R4_F1,bill_amt2,1
+Taiwan Credit Card Default,R4_F1,bill_amt3,0
+Taiwan Credit Card Default,R4_F1,bill_amt4,0
+Taiwan Credit Card Default,R4_F1,bill_amt5,0
+Taiwan Credit Card Default,R4_F1,bill_amt6,0
+Taiwan Credit Card Default,R4_F1,pay_amt1,1
+Taiwan Credit Card Default,R4_F1,pay_amt2,1
+Taiwan Credit Card Default,R4_F1,pay_amt3,1
+Taiwan Credit Card Default,R4_F1,pay_amt4,1
+Taiwan Credit Card Default,R4_F1,pay_amt5,1
+Taiwan Credit Card Default,R4_F1,pay_amt6,1
+Taiwan Credit Card Default,R4_F2,sex,1
+Taiwan Credit Card Default,R4_F2,education,1
+Taiwan Credit Card Default,R4_F2,marriage,1
+Taiwan Credit Card Default,R4_F2,pay_0,1
+Taiwan Credit Card Default,R4_F2,pay_2,1
+Taiwan Credit Card Default,R4_F2,pay_3,1
+Taiwan Credit Card Default,R4_F2,pay_4,1
+Taiwan Credit Card Default,R4_F2,pay_5,1
+Taiwan Credit Card Default,R4_F2,pay_6,1
+Taiwan Credit Card Default,R4_F2,limit_bal,1
+Taiwan Credit Card Default,R4_F2,age,1
+Taiwan Credit Card Default,R4_F2,bill_amt1,1
+Taiwan Credit Card Default,R4_F2,bill_amt2,0
+Taiwan Credit Card Default,R4_F2,bill_amt3,0
+Taiwan Credit Card Default,R4_F2,bill_amt4,0
+Taiwan Credit Card Default,R4_F2,bill_amt5,0
+Taiwan Credit Card Default,R4_F2,bill_amt6,0
+Taiwan Credit Card Default,R4_F2,pay_amt1,1
+Taiwan Credit Card Default,R4_F2,pay_amt2,1
+Taiwan Credit Card Default,R4_F2,pay_amt3,1
+Taiwan Credit Card Default,R4_F2,pay_amt4,1
+Taiwan Credit Card Default,R4_F2,pay_amt5,1
+Taiwan Credit Card Default,R4_F2,pay_amt6,1
+Taiwan Credit Card Default,R4_F3,sex,1
+Taiwan Credit Card Default,R4_F3,education,1
+Taiwan Credit Card Default,R4_F3,marriage,1
+Taiwan Credit Card Default,R4_F3,pay_0,1
+Taiwan Credit Card Default,R4_F3,pay_2,1
+Taiwan Credit Card Default,R4_F3,pay_3,1
+Taiwan Credit Card Default,R4_F3,pay_4,1
+Taiwan Credit Card Default,R4_F3,pay_5,1
+Taiwan Credit Card Default,R4_F3,pay_6,1
+Taiwan Credit Card Default,R4_F3,limit_bal,1
+Taiwan Credit Card Default,R4_F3,age,1
+Taiwan Credit Card Default,R4_F3,bill_amt1,1
+Taiwan Credit Card Default,R4_F3,bill_amt2,0
+Taiwan Credit Card Default,R4_F3,bill_amt3,0
+Taiwan Credit Card Default,R4_F3,bill_amt4,0
+Taiwan Credit Card Default,R4_F3,bill_amt5,0
+Taiwan Credit Card Default,R4_F3,bill_amt6,0
+Taiwan Credit Card Default,R4_F3,pay_amt1,1
+Taiwan Credit Card Default,R4_F3,pay_amt2,1
+Taiwan Credit Card Default,R4_F3,pay_amt3,1
+Taiwan Credit Card Default,R4_F3,pay_amt4,1
+Taiwan Credit Card Default,R4_F3,pay_amt5,1
+Taiwan Credit Card Default,R4_F3,pay_amt6,1
+Taiwan Credit Card Default,R4_F4,sex,1
+Taiwan Credit Card Default,R4_F4,education,1
+Taiwan Credit Card Default,R4_F4,marriage,1
+Taiwan Credit Card Default,R4_F4,pay_0,1
+Taiwan Credit Card Default,R4_F4,pay_2,1
+Taiwan Credit Card Default,R4_F4,pay_3,1
+Taiwan Credit Card Default,R4_F4,pay_4,1
+Taiwan Credit Card Default,R4_F4,pay_5,1
+Taiwan Credit Card Default,R4_F4,pay_6,1
+Taiwan Credit Card Default,R4_F4,limit_bal,1
+Taiwan Credit Card Default,R4_F4,age,1
+Taiwan Credit Card Default,R4_F4,bill_amt1,1
+Taiwan Credit Card Default,R4_F4,bill_amt2,0
+Taiwan Credit Card Default,R4_F4,bill_amt3,0
+Taiwan Credit Card Default,R4_F4,bill_amt4,0
+Taiwan Credit Card Default,R4_F4,bill_amt5,0
+Taiwan Credit Card Default,R4_F4,bill_amt6,0
+Taiwan Credit Card Default,R4_F4,pay_amt1,1
+Taiwan Credit Card Default,R4_F4,pay_amt2,1
+Taiwan Credit Card Default,R4_F4,pay_amt3,1
+Taiwan Credit Card Default,R4_F4,pay_amt4,1
+Taiwan Credit Card Default,R4_F4,pay_amt5,1
+Taiwan Credit Card Default,R4_F4,pay_amt6,1
+Taiwan Credit Card Default,R4_F5,sex,1
+Taiwan Credit Card Default,R4_F5,education,1
+Taiwan Credit Card Default,R4_F5,marriage,1
+Taiwan Credit Card Default,R4_F5,pay_0,1
+Taiwan Credit Card Default,R4_F5,pay_2,1
+Taiwan Credit Card Default,R4_F5,pay_3,1
+Taiwan Credit Card Default,R4_F5,pay_4,1
+Taiwan Credit Card Default,R4_F5,pay_5,1
+Taiwan Credit Card Default,R4_F5,pay_6,1
+Taiwan Credit Card Default,R4_F5,limit_bal,1
+Taiwan Credit Card Default,R4_F5,age,0
+Taiwan Credit Card Default,R4_F5,bill_amt1,1
+Taiwan Credit Card Default,R4_F5,bill_amt2,1
+Taiwan Credit Card Default,R4_F5,bill_amt3,0
+Taiwan Credit Card Default,R4_F5,bill_amt4,0
+Taiwan Credit Card Default,R4_F5,bill_amt5,0
+Taiwan Credit Card Default,R4_F5,bill_amt6,0
+Taiwan Credit Card Default,R4_F5,pay_amt1,1
+Taiwan Credit Card Default,R4_F5,pay_amt2,1
+Taiwan Credit Card Default,R4_F5,pay_amt3,1
+Taiwan Credit Card Default,R4_F5,pay_amt4,1
+Taiwan Credit Card Default,R4_F5,pay_amt5,1
+Taiwan Credit Card Default,R4_F5,pay_amt6,1
+Taiwan Credit Card Default,R5_F1,sex,1
+Taiwan Credit Card Default,R5_F1,education,1
+Taiwan Credit Card Default,R5_F1,marriage,1
+Taiwan Credit Card Default,R5_F1,pay_0,1
+Taiwan Credit Card Default,R5_F1,pay_2,1
+Taiwan Credit Card Default,R5_F1,pay_3,1
+Taiwan Credit Card Default,R5_F1,pay_4,1
+Taiwan Credit Card Default,R5_F1,pay_5,1
+Taiwan Credit Card Default,R5_F1,pay_6,1
+Taiwan Credit Card Default,R5_F1,limit_bal,1
+Taiwan Credit Card Default,R5_F1,age,1
+Taiwan Credit Card Default,R5_F1,bill_amt1,0
+Taiwan Credit Card Default,R5_F1,bill_amt2,1
+Taiwan Credit Card Default,R5_F1,bill_amt3,0
+Taiwan Credit Card Default,R5_F1,bill_amt4,0
+Taiwan Credit Card Default,R5_F1,bill_amt5,0
+Taiwan Credit Card Default,R5_F1,bill_amt6,0
+Taiwan Credit Card Default,R5_F1,pay_amt1,1
+Taiwan Credit Card Default,R5_F1,pay_amt2,1
+Taiwan Credit Card Default,R5_F1,pay_amt3,1
+Taiwan Credit Card Default,R5_F1,pay_amt4,1
+Taiwan Credit Card Default,R5_F1,pay_amt5,1
+Taiwan Credit Card Default,R5_F1,pay_amt6,1
+Taiwan Credit Card Default,R5_F2,sex,1
+Taiwan Credit Card Default,R5_F2,education,1
+Taiwan Credit Card Default,R5_F2,marriage,1
+Taiwan Credit Card Default,R5_F2,pay_0,1
+Taiwan Credit Card Default,R5_F2,pay_2,1
+Taiwan Credit Card Default,R5_F2,pay_3,1
+Taiwan Credit Card Default,R5_F2,pay_4,1
+Taiwan Credit Card Default,R5_F2,pay_5,1
+Taiwan Credit Card Default,R5_F2,pay_6,1
+Taiwan Credit Card Default,R5_F2,limit_bal,1
+Taiwan Credit Card Default,R5_F2,age,1
+Taiwan Credit Card Default,R5_F2,bill_amt1,1
+Taiwan Credit Card Default,R5_F2,bill_amt2,0
+Taiwan Credit Card Default,R5_F2,bill_amt3,0
+Taiwan Credit Card Default,R5_F2,bill_amt4,0
+Taiwan Credit Card Default,R5_F2,bill_amt5,0
+Taiwan Credit Card Default,R5_F2,bill_amt6,0
+Taiwan Credit Card Default,R5_F2,pay_amt1,1
+Taiwan Credit Card Default,R5_F2,pay_amt2,1
+Taiwan Credit Card Default,R5_F2,pay_amt3,1
+Taiwan Credit Card Default,R5_F2,pay_amt4,1
+Taiwan Credit Card Default,R5_F2,pay_amt5,1
+Taiwan Credit Card Default,R5_F2,pay_amt6,1
+Taiwan Credit Card Default,R5_F3,sex,1
+Taiwan Credit Card Default,R5_F3,education,1
+Taiwan Credit Card Default,R5_F3,marriage,1
+Taiwan Credit Card Default,R5_F3,pay_0,1
+Taiwan Credit Card Default,R5_F3,pay_2,1
+Taiwan Credit Card Default,R5_F3,pay_3,1
+Taiwan Credit Card Default,R5_F3,pay_4,1
+Taiwan Credit Card Default,R5_F3,pay_5,1
+Taiwan Credit Card Default,R5_F3,pay_6,1
+Taiwan Credit Card Default,R5_F3,limit_bal,1
+Taiwan Credit Card Default,R5_F3,age,1
+Taiwan Credit Card Default,R5_F3,bill_amt1,1
+Taiwan Credit Card Default,R5_F3,bill_amt2,0
+Taiwan Credit Card Default,R5_F3,bill_amt3,0
+Taiwan Credit Card Default,R5_F3,bill_amt4,0
+Taiwan Credit Card Default,R5_F3,bill_amt5,0
+Taiwan Credit Card Default,R5_F3,bill_amt6,0
+Taiwan Credit Card Default,R5_F3,pay_amt1,1
+Taiwan Credit Card Default,R5_F3,pay_amt2,1
+Taiwan Credit Card Default,R5_F3,pay_amt3,1
+Taiwan Credit Card Default,R5_F3,pay_amt4,1
+Taiwan Credit Card Default,R5_F3,pay_amt5,1
+Taiwan Credit Card Default,R5_F3,pay_amt6,1
+Taiwan Credit Card Default,R5_F4,sex,1
+Taiwan Credit Card Default,R5_F4,education,1
+Taiwan Credit Card Default,R5_F4,marriage,1
+Taiwan Credit Card Default,R5_F4,pay_0,1
+Taiwan Credit Card Default,R5_F4,pay_2,1
+Taiwan Credit Card Default,R5_F4,pay_3,1
+Taiwan Credit Card Default,R5_F4,pay_4,1
+Taiwan Credit Card Default,R5_F4,pay_5,1
+Taiwan Credit Card Default,R5_F4,pay_6,1
+Taiwan Credit Card Default,R5_F4,limit_bal,1
+Taiwan Credit Card Default,R5_F4,age,1
+Taiwan Credit Card Default,R5_F4,bill_amt1,1
+Taiwan Credit Card Default,R5_F4,bill_amt2,0
+Taiwan Credit Card Default,R5_F4,bill_amt3,0
+Taiwan Credit Card Default,R5_F4,bill_amt4,0
+Taiwan Credit Card Default,R5_F4,bill_amt5,0
+Taiwan Credit Card Default,R5_F4,bill_amt6,0
+Taiwan Credit Card Default,R5_F4,pay_amt1,1
+Taiwan Credit Card Default,R5_F4,pay_amt2,1
+Taiwan Credit Card Default,R5_F4,pay_amt3,1
+Taiwan Credit Card Default,R5_F4,pay_amt4,1
+Taiwan Credit Card Default,R5_F4,pay_amt5,1
+Taiwan Credit Card Default,R5_F4,pay_amt6,1
+Taiwan Credit Card Default,R5_F5,sex,1
+Taiwan Credit Card Default,R5_F5,education,1
+Taiwan Credit Card Default,R5_F5,marriage,1
+Taiwan Credit Card Default,R5_F5,pay_0,1
+Taiwan Credit Card Default,R5_F5,pay_2,1
+Taiwan Credit Card Default,R5_F5,pay_3,1
+Taiwan Credit Card Default,R5_F5,pay_4,1
+Taiwan Credit Card Default,R5_F5,pay_5,1
+Taiwan Credit Card Default,R5_F5,pay_6,1
+Taiwan Credit Card Default,R5_F5,limit_bal,1
+Taiwan Credit Card Default,R5_F5,age,0
+Taiwan Credit Card Default,R5_F5,bill_amt1,1
+Taiwan Credit Card Default,R5_F5,bill_amt2,1
+Taiwan Credit Card Default,R5_F5,bill_amt3,0
+Taiwan Credit Card Default,R5_F5,bill_amt4,0
+Taiwan Credit Card Default,R5_F5,bill_amt5,0
+Taiwan Credit Card Default,R5_F5,bill_amt6,0
+Taiwan Credit Card Default,R5_F5,pay_amt1,1
+Taiwan Credit Card Default,R5_F5,pay_amt2,1
+Taiwan Credit Card Default,R5_F5,pay_amt3,1
+Taiwan Credit Card Default,R5_F5,pay_amt4,1
+Taiwan Credit Card Default,R5_F5,pay_amt5,1
+Taiwan Credit Card Default,R5_F5,pay_amt6,1

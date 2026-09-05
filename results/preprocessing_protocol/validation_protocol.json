@@ -1,0 +1,23 @@
+{
+    "positive_class": "1 = adverse, rejected, bad credit, or default",
+    "negative_class": "0 = favourable, approved, good credit, or non-default",
+    "outer_validation": "Repeated StratifiedGroupKFold: 5 folds x 5 repetitions",
+    "outer_random_states": [
+        42,
+        142,
+        242,
+        342,
+        442
+    ],
+    "inner_validation": "StratifiedGroupKFold with 5 folds inside each outer training partition",
+    "grouping_rule": "Identical complete predictor profiles share one profile_group_id and cannot cross fold boundaries.",
+    "leakage_control": [
+        "Imputation fitted only on the training fold",
+        "Encoding fitted only on the training fold",
+        "Scaling fitted only on the training fold",
+        "Feature selection fitted only on the training fold",
+        "Class-imbalance treatment applied only to training data",
+        "Hyperparameter selection performed only in inner validation",
+        "Calibration and threshold selection performed only in inner validation"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "stage": "Objective 3 Step 6 - cost-sensitive XGBoost ablation",
+    "feature_regimes": [
+        "AllFeatures",
+        "FrozenChi2Top75"
+    ],
+    "training_weight_strategies": {
+        "Unweighted": "scale_pos_weight = 1",
+        "Balanced": "N_negative / N_positive",
+        "Cost2": "2 * N_negative / N_positive",
+        "Cost5": "5 * N_negative / N_positive"
+    },
+    "weight_estimation": "outer-training fold only",
+    "feature_selection": "Frozen group-aware Chi-Square Top75, fitted only on outer-training fold",
+    "comparison_feature_regime": "All Features",
+    "threshold": 0.5,
+    "calibration": "none",
+    "hyperparameter_tuning": "none",
+    "decision_rule": "Training-cost strategy will be chosen using German evidence only; Australian and Taiwan are replication evidence."
+}

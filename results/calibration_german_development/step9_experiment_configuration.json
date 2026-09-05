@@ -1,0 +1,29 @@
+{
+    "stage": "Objective 3 Step 9 - German probability calibration development",
+    "development_dataset": "German Credit",
+    "frozen_core_hybrid": {
+        "feature_selection": "Group-aware Chi-Square Top75",
+        "base_models": [
+            "Balanced LR",
+            "Balanced RF",
+            "Balanced XGB"
+        ],
+        "fusion": "Equal-probability soft voting"
+    },
+    "calibration_candidates": [
+        "Uncalibrated",
+        "Sigmoid",
+        "Isotonic"
+    ],
+    "calibration_fit_data": "Inner 5-fold grouped OOF hybrid probabilities from each outer-training partition",
+    "outer_validation": "Same 5-fold x 5-repeat grouped folds used in previous steps",
+    "primary_selection_criteria": [
+        "Brier score",
+        "Log loss",
+        "ECE",
+        "Calibration intercept",
+        "Calibration slope"
+    ],
+    "calibration_selection_rule": "Method will be frozen using German evidence only; Australian and Taiwan cannot influence method selection.",
+    "threshold_optimization": "Deferred to a later step"
+}

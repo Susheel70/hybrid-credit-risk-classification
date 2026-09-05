@@ -1,0 +1,18 @@
+{
+    "development_dataset": "German Credit",
+    "threshold_rule": "Minimize FP + 2*FN on cross-fitted sigmoid-calibrated inner OOF probabilities",
+    "reference_loss_ratio": "FN:FP = 2:1",
+    "interpretation": "Reference asymmetric-loss scenario only; not actual bank-specific monetary cost.",
+    "numeric_threshold_frozen_globally": false,
+    "external_rule_retuning": false,
+    "german_development_result": {
+        "threshold_mean": 0.3537563925644884,
+        "threshold_sd": 0.0407438327025447,
+        "recall": 0.6893603943474447,
+        "precision": 0.553559099685055,
+        "f1": 0.6088080507206388,
+        "balanced_accuracy": 0.7238120883870833,
+        "mcc": 0.4253175003609249,
+        "cost_2_1_per100": 35.72
+    }
+}

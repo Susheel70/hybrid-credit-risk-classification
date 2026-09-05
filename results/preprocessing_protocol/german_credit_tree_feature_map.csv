@@ -1,0 +1,62 @@
+dataset,preprocessor_mode,transformed_index,transformed_feature,source_feature,source_role
+German Credit,tree,0,num__duration,duration,numerical
+German Credit,tree,1,num__amount,amount,numerical
+German Credit,tree,2,num__installment_rate,installment_rate,numerical
+German Credit,tree,3,num__present_residence,present_residence,numerical
+German Credit,tree,4,num__age,age,numerical
+German Credit,tree,5,num__number_credits,number_credits,numerical
+German Credit,tree,6,num__people_liable,people_liable,numerical
+German Credit,tree,7,cat__status_... < 100 DM,status,categorical
+German Credit,tree,8,cat__status_... >= 200 DM / salary for at least 1 year,status,categorical
+German Credit,tree,9,cat__status_0 <= ... < 200 DM,status,categorical
+German Credit,tree,10,cat__status_no checking account,status,categorical
+German Credit,tree,11,cat__credit_history_all credits at this bank paid back duly,credit_history,categorical
+German Credit,tree,12,cat__credit_history_critical account/other credits existing,credit_history,categorical
+German Credit,tree,13,cat__credit_history_delay in paying off in the past,credit_history,categorical
+German Credit,tree,14,cat__credit_history_existing credits paid back duly till now,credit_history,categorical
+German Credit,tree,15,cat__credit_history_no credits taken/all credits paid back duly,credit_history,categorical
+German Credit,tree,16,cat__purpose_business,purpose,categorical
+German Credit,tree,17,cat__purpose_car (new),purpose,categorical
+German Credit,tree,18,cat__purpose_car (used),purpose,categorical
+German Credit,tree,19,cat__purpose_domestic appliances,purpose,categorical
+German Credit,tree,20,cat__purpose_education,purpose,categorical
+German Credit,tree,21,cat__purpose_furniture/equipment,purpose,categorical
+German Credit,tree,22,cat__purpose_others,purpose,categorical
+German Credit,tree,23,cat__purpose_radio/television,purpose,categorical
+German Credit,tree,24,cat__purpose_repairs,purpose,categorical
+German Credit,tree,25,cat__purpose_retraining,purpose,categorical
+German Credit,tree,26,cat__savings_... < 100 DM,savings,categorical
+German Credit,tree,27,cat__savings_... >= 1000 DM,savings,categorical
+German Credit,tree,28,cat__savings_100 <= ... < 500 DM,savings,categorical
+German Credit,tree,29,cat__savings_500 <= ... < 1000 DM,savings,categorical
+German Credit,tree,30,cat__savings_unknown/no savings account,savings,categorical
+German Credit,tree,31,cat__employment_duration_... < 1 year,employment_duration,categorical
+German Credit,tree,32,cat__employment_duration_... >= 7 years,employment_duration,categorical
+German Credit,tree,33,cat__employment_duration_1 <= ... < 4 years,employment_duration,categorical
+German Credit,tree,34,cat__employment_duration_4 <= ... < 7 years,employment_duration,categorical
+German Credit,tree,35,cat__employment_duration_unemployed,employment_duration,categorical
+German Credit,tree,36,cat__personal_status_sex_female : divorced/separated/married,personal_status_sex,categorical
+German Credit,tree,37,cat__personal_status_sex_male : divorced/separated,personal_status_sex,categorical
+German Credit,tree,38,cat__personal_status_sex_male : married/widowed,personal_status_sex,categorical
+German Credit,tree,39,cat__personal_status_sex_male : single,personal_status_sex,categorical
+German Credit,tree,40,cat__other_debtors_co-applicant,other_debtors,categorical
+German Credit,tree,41,cat__other_debtors_guarantor,other_debtors,categorical
+German Credit,tree,42,cat__other_debtors_none,other_debtors,categorical
+German Credit,tree,43,cat__property_building society savings agreement/life insurance,property,categorical
+German Credit,tree,44,cat__property_car or other,property,categorical
+German Credit,tree,45,cat__property_real estate,property,categorical
+German Credit,tree,46,cat__property_unknown/no property,property,categorical
+German Credit,tree,47,cat__other_installment_plans_bank,other_installment_plans,categorical
+German Credit,tree,48,cat__other_installment_plans_none,other_installment_plans,categorical
+German Credit,tree,49,cat__other_installment_plans_stores,other_installment_plans,categorical
+German Credit,tree,50,cat__housing_for free,housing,categorical
+German Credit,tree,51,cat__housing_own,housing,categorical
+German Credit,tree,52,cat__housing_rent,housing,categorical
+German Credit,tree,53,cat__job_management/self-employed/highly qualified employee/officer,job,categorical
+German Credit,tree,54,cat__job_skilled employee/official,job,categorical
+German Credit,tree,55,cat__job_unemployed/unskilled - non-resident,job,categorical
+German Credit,tree,56,cat__job_unskilled - resident,job,categorical
+German Credit,tree,57,cat__telephone_no,telephone,categorical
+German Credit,tree,58,cat__telephone_yes,telephone,categorical
+German Credit,tree,59,cat__foreign_worker_no,foreign_worker,categorical
+German Credit,tree,60,cat__foreign_worker_yes,foreign_worker,categorical

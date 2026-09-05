@@ -1,0 +1,4 @@
+dataset,fold,train_records,test_records,train_adverse_rate,test_adverse_rate,train_profile_groups,test_profile_groups,shared_profile_groups
+Australian Credit Approval,1,552,138,0.5471014492753623,0.5869565217391305,552,138,0
+German Credit,1,800,200,0.29125,0.335,800,200,0
+Taiwan Credit Card Default,1,24001,5999,0.22228240489979584,0.2168694782463744,23956,5988,0
